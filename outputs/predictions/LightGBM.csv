@@ -1,0 +1,433 @@
+﻿text,true_category,predicted_category,confidence,correct
+turbine an engine turbine with big for in trip big according question,aviation,aviation,0.999990357232776,True
+set new way example very passenger brakes,automotive,automotive,0.9998393362924654,True
+thing moment according that stage audience small big stage designer screenplay,cinema,photography,0.9989454709752886,False
+turbine level big passenger the takeoff set point passenger answer,aviation,aviation,0.9882826916327222,True
+coach team rebound competition set question thing part big example rebound,photography,basketball,0.8256364325719692,False
+element moment stratigraphy part big excavation thing that this part document,archaeology,archaeology,0.6584580019820746,True
+example answer study document way today example monarch and set for,history,education,0.49760141696682914,False
+case table the and example spices,cooking,cooking,0.9999659362406844,True
+point according cargo today group thing speed,marine,marine,0.9172769303883901,True
+new and type moment director this question creation set,cinema,cinema,0.7352263683066724,True
+growth carbon big moment soil a that in biodiversity soil and example,ecology,ecology,0.9981058297863931,True
+coach on question way with coach scorer small coach type,football,football,0.9950370530320826,True
+species question moment example answer water precipitation set and,weather,weather,0.9934642103153251,True
+thing nebula theory measurement very today group,astronomy,astronomy,0.9997387130709767,True
+speed group customs today point passenger small passenger and customs case on,travel,travel,0.9392103133054215,True
+type diploma period small group archive monarch with example with case,history,history,0.9964859184311232,True
+text answer very for moment big plaintiff and,law,law,0.9462853824778807,True
+new level recipe level flavor group level vineyard point recipe group a,cooking,cooking,0.9997616953214692,True
+case according group the example excavation text thing on text period,archaeology,archaeology,0.9990451805077564,True
+audience catwalk big stage big level catwalk level,fashion,fashion,0.8803616434223913,True
+cargo trip today question very answer cargo small that,marine,ecology,0.16747097622253088,False
+in audience for new catwalk creation type level case answer creation,fashion,cinema,0.9210306820100739,False
+thing society according text in in this lesson,education,education,0.7126827574352059,True
+a soil question level a precipitation in soil big species,weather,weather,0.9227243647727496,True
+passenger turbine part new type example according and very,aviation,aviation,0.5596040218279605,True
+small water answer on new way compost water question in compost way,gardening,weather,0.4946868141494726,False
+aperture tripod audience question today today point style style today,photography,photography,0.9230376778218982,True
+point court court new small today competition victory very,basketball,football,0.6630517335574165,False
+set for plaintiff text study very that,law,law,0.9998398258554575,True
+case question level group answer grape vineyard the element question table,wine,wine,0.999338768820557,True
+type today orchestra catwalk group moment new the answer audience,fashion,music,0.999562709643908,False
+element big today spices new preparation group in spices,cooking,cooking,0.9999152338191226,True
+element carbon case soil according big example,ecology,ecology,0.9990860786096463,True
+point this new coach part dunk way element with team,basketball,basketball,0.5204857910143582,True
+very today rate bond in mortgage element that question value investment,finance,finance,0.6648265670624388,True
+style this stage editing according small audience screenplay and,cinema,cinema,0.9993177833640294,True
+part and way a care care and type diagnosis,medicine,medicine,0.9957090630369352,True
+lesson this element part study a textbook element new with level,education,education,0.9998554750372945,True
+melody and example director screenplay audience an group and level part in,cinema,cinema,0.49851894105519645,True
+example the very value for this lease notary value point value,realestate,realestate,0.7769342659258974,True
+screen group this algorithm version byte the thing speed,computing,computing,0.9998859753049189,True
+trajectory according a speed type type actuator,robotics,robotics,0.9999945956535872,True
+new level on on water carbon this small carbon,ecology,weather,0.8954864267693965,False
+coach penalty team an moment victory case way thing thing thing,football,football,0.9987144136838179,True
+coach competition rebound competition penalty today small in big new,basketball,football,0.9915873154563533,False
+an diploma the text answer new for moment,education,education,0.9997278462318328,True
+the in part study dynasty element text,history,history,0.7424614954529438,True
+new level passenger set way in tide a customs,marine,marine,0.7769592308259035,True
+a question thing part in creation part way framing,photography,photography,0.6497646467953463,True
+model today solvent model answer for experiment case big point thing,chemistry,chemistry,0.9968078545822999,True
+harvest moment irrigation water today answer type,agriculture,agriculture,0.9831988333945159,True
+graphics and speed data calibration trajectory part in answer version way moment on,robotics,robotics,0.5278885879405316,True
+byte calibration point small version point in way compiler,computing,computing,0.9990983043580299,True
+an a small the team dunk in that,basketball,basketball,0.994558301818708,True
+season soil answer according according example seed today case the,agriculture,agriculture,0.8317013573471957,True
+part set type answer actuator speed byte trajectory screen,robotics,computing,0.993454301780874,False
+an element a according melody style creation audience big director,archaeology,cinema,0.981360561164178,False
+field very catalyst for type experiment type on an,chemistry,chemistry,0.9962748224572514,True
+version an data byte way new moment,computing,computing,0.9862186620883474,True
+rate for bond with example and element according a,finance,finance,0.994441683018613,True
+and new a version data version controller level very very,videogames,videogames,0.9996243834343221,True
+with passenger takeoff according safety moment in an that for bodywork passenger on,aviation,automotive,0.9453786692740979,False
+contract lease moment risk big with investment small dividend example very a bond,finance,realestate,0.880588242156366,False
+this this graphics in question element element speed controller group speed the speed,videogames,videogames,0.9981576199828055,True
+investment an bond contract part point question,biology,finance,0.9551284672670923,False
+an image way image director example editing thing set on very audience,cinema,cinema,0.912356534065227,True
+and championship answer thing competition that coach point score,football,football,0.9999740206296985,True
+new big membrane quantum group model point according point new,physics,astronomy,0.6536582221830814,False
+audience group a score audience case question orchestra,music,music,0.999997103055353,True
+small theory an the field theory with way field example,physics,physics,0.944814674702215,True
+an vineyard set level taste taste an flavor and new,wine,cooking,0.9998563106493233,False
+answer thing small fuel speed the safety new in big for,automotive,aviation,0.9363202555039961,False
+growth case compost pruning very for on water,gardening,gardening,0.9875874962258647,True
+level graphics calibration moment answer data data an according way on answer version,videogames,robotics,0.9966956786377431,False
+and exam prescription diagnosis health very level set,wine,medicine,0.9999931622077924,False
+in thing with harvest question irrigation way that water on thing species,agriculture,ecology,0.9392605651695315,False
+big trip itinerary speed thing according with in and engine,travel,travel,0.9998122143720074,True
+set textbook question textbook big period society type,education,education,0.9999408575217712,True
+set type compiler way data graphics version question for,computing,computing,0.8987217014773011,True
+way an big point coach big set question penalty,football,basketball,0.5386927298052248,False
+way according measurement example galaxy element part big that nebula the,astronomy,astronomy,0.5185214498265628,True
+small symptom diagnosis part care health way moment,medicine,medicine,0.9999577429764731,True
+part algorithm an big screen for speed data byte level answer big the,computing,computing,0.9798418605115189,True
+recipe spices set an this flavor today small point that,cooking,cooking,0.9999273767599112,True
+itinerary answer for passenger new small,travel,travel,0.9832598696756092,True
+anchor this and speed small for big,marine,marine,0.9870740175020043,True
+season precipitation soil big thing type with a gust water and renewable,weather,weather,0.9956370731761753,True
+element gust according that anticyclone soil compost and species,weather,weather,0.9989671417033462,True
+type a catwalk element stage thing,fashion,photography,0.9925152353143091,False
+in according point rate part big notary notary the according a,realestate,finance,0.8252811256668886,False
+very species level soil thing this soil gust,weather,weather,0.992204435561524,True
+data moment galaxy answer part set with measurement measurement,astronomy,astronomy,0.9999610599664646,True
+style part and that with style screenplay director for and style small that,cinema,cinema,0.9994713211180448,True
+stage audience example director a new designer on big an case,fashion,fashion,0.6717678429695788,True
+level renewable growth moment water very growth group,ecology,ecology,0.8035740981424565,True
+that example this algorithm data element version screen,computing,computing,0.9979787040827686,True
+with thing with data a quantum very solvent model group this,physics,physics,0.9260797164687672,True
+quantum theory for the answer data set this case with quantum,physics,physics,0.9999920936117316,True
+dunk case according thing set competition score new victory big dunk case,basketball,basketball,0.9999509913919405,True
+and stage orchestra part this case score creation type element point element,music,music,0.999957822007198,True
+for risk that small in big moment portfolio value small investment moment,finance,finance,0.9999864492242518,True
+for anticyclone very soil way anticyclone on new group with this,weather,weather,0.8760976481315937,True
+thing pruning the type group moment vegetable growth water point species,gardening,gardening,0.9230307811058832,True
+set element solvent measurement question type element theory catalyst according according,travel,chemistry,0.9999983513043517,False
+point experiment the type quantum moment this experiment bond,chemistry,astronomy,0.6613869215242455,False
+and a cargo cargo case group engine passenger an for,marine,marine,0.8620233065807508,True
+thing style very director moment for audience part audience orchestra way,music,music,0.991525632221927,True
+big answer on way model theory for model very mutation,biology,biology,0.9885037457071496,True
+the and case stratigraphy and text society,archaeology,law,0.857317368586119,False
+passenger example takeoff point according turbine example engine new small,aviation,aviation,0.9997243216236374,True
+way thing case answer scorer and group rebound coach coach,basketball,football,0.999924745848742,False
+that element in diploma small study document that the study that,education,education,0.9884435987909773,True
+a today score dunk that point championship coach,football,football,0.9998035481235187,True
+big part period thing small in and text excavation,archaeology,archaeology,0.9989544319948565,True
+compost season type anticyclone the example water for today,weather,agriculture,0.9820196963281652,False
+for this set in today actuator an actuator that system,robotics,robotics,0.7479329812199522,True
+dynasty that with with document type dynasty according according way,realestate,history,0.999338278070083,False
+thing answer big byte example thing level element for version byte controller,computing,computing,0.9934881128425576,True
+thing theory for measurement quantum for way membrane today in very group,physics,physics,0.997850251344595,True
+this quantum an with set theory,physics,physics,0.9998216762447123,True
+that type growth growth element question irrigation the level and small season,agriculture,agriculture,0.9578917532945999,True
+way answer society monarch archive on in and question new big,history,history,0.9999940514593902,True
+new that a flavor flavor example example small group group spices,cooking,cooking,0.9999668018456248,True
+that customs very according turbine on trip according type,aviation,travel,0.9613474012734698,False
+telescope data part moment element acceleration that case way nebula and small experiment experiment,astronomy,astronomy,0.9992276638837176,True
+textbook period an study plaintiff lesson today type on,education,education,0.8498177481712708,True
+group text on group excavation with excavation an text for element,archaeology,archaeology,0.9991702411176274,True
+very measurement the galaxy type an an with,astronomy,physics,0.8415420450776865,False
+big new excursion the that safety moment an itinerary this,travel,travel,0.999982208103898,True
+and baking vintage and this example taste example vintage that with,wine,cooking,0.8020031603184063,False
+society in for very period study way new element case level diploma,education,education,0.9982632242421857,True
+takeoff very element with engine according thing today,aviation,aviation,0.9960380179014862,True
+fuel an that in moment type passenger that on speed with,automotive,marine,0.7312882934251337,False
+set document set study on point case text in lesson,education,education,0.9986564417255799,True
+set experiment part bond catalyst model in experiment this,chemistry,chemistry,0.9999961053882405,True
+small trip safety new on itinerary big safety customs thing,travel,travel,0.9999063793458418,True
+set lease very dividend notary answer big investment,realestate,realestate,0.9905722068720345,True
+very system type screen question case big graphics question point,videogames,computing,0.9999026844232668,False
+rebound new big element question level competition today level score competition,basketball,basketball,0.998594994299127,True
+group a measurement a data point telescope example,astronomy,astronomy,0.7250811907466901,True
+part element level set experiment catalyst an example,chemistry,chemistry,0.976753532046323,True
+championship victory for very point scorer for today this competition thing,football,football,0.9995493429343971,True
+according according this brakes point itinerary passenger passenger moment element group the,travel,automotive,0.8697554314885981,False
+part table this grape taste question vineyard on table group way today,wine,wine,0.9999966677290301,True
+big and way an part contract mortgage,realestate,finance,0.9961586472621625,False
+moment audience example element thing question with small creation editing style,cinema,cinema,0.9985610199614845,True
+moment theory according point solvent for,chemistry,chemistry,0.999784684310963,True
+case with according risk value type point bond group,finance,finance,0.9992675801477197,True
+this moment model a experiment model thing set catalyst,chemistry,chemistry,0.999923187020729,True
+compost example soil thing thing type level part pruning on,gardening,weather,0.6734791515358084,False
+for today portfolio type this contract,finance,finance,0.9999367854142117,True
+new anchor trip way new engine case safety,marine,marine,0.794914218209534,True
+and group spices and very quality taste that point table part,cooking,cooking,0.9999968605028996,True
+for group very stratigraphy dating in document type very society,archaeology,education,0.6742076313766031,False
+answer small case set the case screen byte trajectory system,robotics,computing,0.9800778029112552,False
+level an framing audience part score new in a moment the,music,music,0.9946135176102918,True
+and and set study big period archive archive question,history,history,0.9999238988306376,True
+set creation thing aperture answer according with thing style audience a,photography,photography,0.9953029879582227,True
+theory theory solvent way measurement on that according field,chemistry,chemistry,0.9351306569829703,True
+risk bond small risk bond big group on notary investment,finance,finance,0.9999658152784614,True
+type answer engine point speed tide engine on group turbine,aviation,aviation,0.9191687545059208,True
+group screen with this the part with trajectory,robotics,videogames,0.96756632616689,False
+championship penalty this according set element coach group that today,football,football,0.998058573031579,True
+moment level small example way score court and,basketball,football,0.9646668953280212,False
+tripod on example point a stage part melody and part,music,photography,0.8366998461676013,False
+the moment on trip brakes that speed in case for fuel,automotive,automotive,0.9962790960552781,True
+very question type solvent experiment new data,chemistry,chemistry,0.9728118051329668,True
+and group according preparation point an big case spices,cooking,cooking,0.9800744324453924,True
+data small that set level algorithm compiler speed an screen,computing,computing,0.9995393125139708,True
+in this carbon with case part renewable water for growth small an,ecology,ecology,0.8126162820086379,True
+and on text type question text court society for,law,law,0.9990460170435366,True
+level textbook and with the document part today thing,education,education,0.9999810361741975,True
+new moment very this model experiment big membrane,videogames,astronomy,0.99282919633698,False
+table a in answer recipe the and example question on,cooking,cooking,0.9995469960222685,True
+element tailoring according very answer audience,fashion,fashion,0.9848786767060818,True
+growth level harvest big on seed with on water point level soil,agriculture,agriculture,0.9956668635414797,True
+very and anchor cargo safety on case,marine,marine,0.9872365350846024,True
+that group on compost element compost soil in question new,gardening,weather,0.9106742773825033,False
+big mortgage case level dividend risk thing,realestate,finance,0.9999412163050765,False
+point thing audience editing point question screenplay moment style,cinema,cinema,0.9978541421343405,True
+text study and question moment textbook a text question,education,archaeology,0.41491491398335845,False
+actuator small version small on new,robotics,robotics,0.9975665211068631,True
+element way answer anticyclone point growth seed seed season on question example,agriculture,ecology,0.539548255291751,False
+rebound score in this coach rebound thing a question scorer answer team new,basketball,basketball,0.9788472306410325,True
+part today type quality taste set group vintage on big vintage table part,wine,wine,0.9999950163093376,True
+solvent field data theory small big with solvent a,chemistry,chemistry,0.9997716901613253,True
+galaxy model model and level answer in,astronomy,physics,0.9922831948403925,False
+question theory quantum quantum level element model thing,physics,physics,0.9999986753313627,True
+element big growth point in small pruning anticyclone with,gardening,weather,0.8915401706213766,False
+point for growth vegetable species according thing question compost,gardening,ecology,0.69103938074884,False
+species species level in answer small gust species way question anticyclone with,weather,weather,0.9996038287761474,True
+very director image on screenplay the according,cinema,cinema,0.9997946470380816,True
+example penalty and case way team group with,football,basketball,0.951967144536577,False
+a case image example screenplay screenplay set according,cinema,cinema,0.9520899863872103,True
+console moment question way new system screen,videogames,videogames,0.9969894033990435,True
+score scorer according type group penalty this element,football,football,0.9999914901165523,True
+preparation moment table big table vineyard vintage small an,wine,wine,0.9999995374853908,True
+question victory a championship new scorer a new and a on coach,football,football,0.9999881274935603,True
+screen actuator answer on on point with version speed calibration with set part,robotics,robotics,0.9999098210374284,True
+risk lease risk for new question new lease point value,realestate,realestate,0.9950759759450754,True
+today scorer question competition point competition and competition scorer,football,football,0.9997174473903968,True
+level competition penalty championship an group group,football,football,0.9996754145028854,True
+group field set this model experiment small the,physics,physics,0.9773477760357704,True
+anchor trip answer according with trip very passenger group,marine,marine,0.9753792312995185,True
+taste recipe recipe with moment example in answer flavor flavor today part,cooking,cooking,0.9999381270744293,True
+example theory experiment way in mutation model moment,biology,biology,0.9940347423394443,True
+that itinerary customs passenger question moment very new,travel,travel,0.9962103351261506,True
+court with society way set study part in plaintiff,law,law,0.9999990134800281,True
+small society very verdict verdict answer in very very example,law,law,0.9994427225365352,True
+element textbook on that study and lesson question and on new,education,education,0.7446655913009906,True
+type on this today today aperture stage director part for,photography,cinema,0.7369720835883605,False
+plaintiff society question moment and element,law,law,0.998747881417911,True
+new image the style answer type thing orchestra way score big,music,music,0.9999935171279004,True
+flavor point new today grape preparation according vineyard small type flavor that small,travel,wine,0.9978295388751488,False
+way example that a group and study verdict very verdict example,law,law,0.9890184422956572,True
+and answer question way score image today type thing tailoring stage,music,music,0.9984119921598331,True
+example that audience on designer type in set stage score for,fashion,photography,0.9659145238499193,False
+theory bond group part that theory answer level part bond question,chemistry,chemistry,0.9999783912634856,True
+the society point study study monarch level and monarch,history,history,0.9992889903847612,True
+thing group engine speed very small engine cargo very,marine,marine,0.7390683961779261,True
+new thing new measurement in quantum set the,physics,physics,0.6902714623622163,True
+today answer way version system for graphics,videogames,videogames,0.732016412688115,True
+question water growth small small that part irrigation,agriculture,agriculture,0.7206910948627274,True
+and grape big in group group in that preparation,wine,wine,0.9971635305764092,True
+group diploma verdict part the court period case,law,law,0.9999755835542501,True
+stage catwalk big small in image audience type,fashion,photography,0.8780389599133244,False
+this level case group new data screen very question speed trajectory big,robotics,videogames,0.9986369057474067,False
+grape taste element small type way,wine,wine,0.9999853844334677,True
+question type type according with stratigraphy period part text case part study,archaeology,education,0.3932648912362399,False
+bond set question way way experiment answer for new element,chemistry,chemistry,0.9866157541453815,True
+small an biodiversity water vegetable the small in that today today soil,ecology,agriculture,0.5783035534817009,False
+spices in that quality big level today grape taste case according,wine,wine,0.7366416617768005,True
+engine altitude moment thing safety according level fuel the with type safety,automotive,aviation,0.8959190019830675,False
+type safety safety customs a part excursion for,travel,travel,0.9999937101088601,True
+question according calibration speed very element trajectory point very,robotics,robotics,0.9978286185637865,True
+dunk according coach case score thing with on level and,basketball,football,0.6772101979759658,False
+with with big that speed speed speed trajectory a byte compiler that,computing,computing,0.9993714375424694,True
+level diagnosis this example according result group diagnosis that set care care level,medicine,medicine,0.9999769109389786,True
+for answer victory on with coach a that competition scorer question,football,football,0.9999905974277431,True
+growth on harvest species water thing moment for level big,agriculture,weather,0.5362472465415588,False
+part part today study group a study dynasty monarch part period,history,history,0.9947829103142142,True
+style the style thing on in audience score moment,music,music,0.9645695108575106,True
+example an case speed graphics a a thing,videogames,videogames,0.8412105376369706,True
+today today byte an controller console for small screen,videogames,videogames,0.9997877478153322,True
+level style with aperture type very small point,photography,music,0.40753186235220107,False
+thing soil small this water question type renewable the harvest growth on that,ecology,ecology,0.6257285547665248,True
+trip level today today an case altitude for,aviation,aviation,0.9623442218596809,True
+an part part turbine big speed,aviation,aviation,0.9891040167563486,True
+today small on a result big new moment prescription part,medicine,medicine,0.9809337403715441,True
+score creation answer in type type for case answer,music,music,0.8055231940846991,True
+group this an and and set stratigraphy period according,archaeology,archaeology,0.6933074765305207,True
+a theory model mutation answer today in model quantum,physics,physics,0.999960596786333,True
+grape case the question example new quality vintage flavor table on question group,wine,wine,0.9999800016728592,True
+today nebula that the galaxy experiment question,astronomy,astronomy,0.999971928339457,True
+this thing theory membrane way question today,biology,biology,0.70990787718828,True
+irrigation and with answer water water the,agriculture,agriculture,0.5539061848448993,True
+with data today graphics moment big that that this,football,physics,0.36058305103927873,False
+measurement element solvent for the that bond answer,chemistry,chemistry,0.9999982824188467,True
+that point on lesson level text this level answer textbook,education,education,0.9989455257619869,True
+soil this and harvest compost thing growth point,gardening,gardening,0.9888413558399028,True
+membrane according and enzyme question small with and model experiment part,biology,biology,0.9878855514376534,True
+engine fuel an brakes level a case that big new,automotive,automotive,0.5869225752513162,True
+document point element and on answer way for plaintiff answer,law,law,0.4528583897425072,True
+today customs speed trip point itinerary trip moment set,travel,travel,0.9998953666933658,True
+that this altitude big question moment takeoff passenger,aviation,aviation,0.9999698090965092,True
+type document element element textbook period case and and,education,education,0.9969498826087677,True
+type question compiler small system example for,computing,computing,0.999795096442006,True
+small with textbook diploma document plaintiff way group moment on,education,education,0.9999273017538188,True
+level example the case an and rebound team coach championship penalty victory level,football,football,0.8896309107461066,True
+acceleration theory for way an quantum nebula case,physics,physics,0.9999447283275646,True
+growth that an season example soil moment for moment vegetable,gardening,agriculture,0.4421499751078229,False
+model with moment way data solvent data in,chemistry,chemistry,0.9999219392581751,True
+study care for prescription symptom point thing care part,medicine,medicine,0.9999680123775859,True
+small example version algorithm small with type screen,computing,robotics,0.867257953502068,False
+portfolio group set according case mortgage bond investment type in today contract question,finance,finance,0.9999571550986324,True
+part verdict study society point answer this plaintiff level,law,law,0.9999993529719237,True
+a level image a question framing aperture image creation,photography,cinema,0.6617627748793569,False
+turbine a tide a trip small question group engine,aviation,aviation,0.9765081195459389,True
+system case type data according a actuator set data graphics,videogames,robotics,0.9997109752871522,False
+an taste recipe according spices today preparation preparation this big group,cooking,cooking,0.9999977274786027,True
+contract notary moment example bond value bond rate answer set set according with,finance,finance,0.999669586186801,True
+a study monarch for case dating element case moment example small archive,history,history,0.9999520842134769,True
+way and in data model mutation enzyme part this,biology,biology,0.9999656452736446,True
+for controller group data system according element data console case,basketball,videogames,0.972858063637478,False
+archive big type and case study society,history,history,0.9991122823673054,True
+big grape small moment baking with recipe flavor,cooking,cooking,0.999972218644117,True
+for set stage set set with answer image example catwalk and catwalk style,fashion,photography,0.9993072134580661,False
+anticyclone small for season growth a very growth,weather,agriculture,0.9862617725133328,False
+according a small diagnosis answer result care with,medicine,medicine,0.9999815363350871,True
+this type level this big small that document archive,history,history,0.8595799839309302,True
+for point this point nebula for in point bond theory,astronomy,chemistry,0.9629063192241949,False
+data big today screen big byte a example answer new an algorithm,computing,computing,0.9975889553401149,True
+small part group textbook study period example period according level lesson stratigraphy the small,education,education,0.9164831711158894,True
+this preparation new today recipe a example part an spices,cooking,cooking,0.9999321341610464,True
+small point an that speed system big a console,videogames,basketball,0.5014443667505124,False
+way excursion part in trip on itinerary an,travel,travel,0.9999980888009472,True
+answer console system and point thing group controller,videogames,computing,0.6948929098631123,False
+very competition the that question competition and championship point score a,football,football,0.9737706310342593,True
+model for very in small level and data membrane mutation that model,biology,physics,0.8942336366123634,False
+a the experiment with galaxy point example element for,astronomy,astronomy,0.634526935109761,True
+itinerary speed brakes safety way with engine and with,travel,marine,0.9893504326852429,False
+an excavation period court small society element example society and answer today,archaeology,law,0.9992596012435433,False
+vintage vineyard according group and preparation new the for answer that,wine,wine,0.9999906273427968,True
+element a for gust renewable in water and answer biodiversity the moment,ecology,weather,0.9547750392469642,False
+coach dunk coach new point question new very moment penalty coach answer level,basketball,football,0.9995005938217766,False
+thing thing health prescription and symptom point exam on big,medicine,medicine,0.9999398398617773,True
+big new type growth type harvest moment growth growth harvest,agriculture,gardening,0.9989146514997046,False
+cargo small takeoff type engine with part altitude on point moment passenger,aviation,aviation,0.9958578268376093,True
+an lease thing according very dividend investment bond,finance,finance,0.9993475450144927,True
+acceleration a model point data quantum element answer,physics,physics,0.9999918584844817,True
+for moment version calibration calibration a this,robotics,robotics,0.9999865219432122,True
+today moment species renewable point today moment carbon big for water,ecology,ecology,0.8612100141903714,True
+with point with that the this case period verdict period court,law,law,0.9999617931105759,True
+set group dynasty study way answer thing moment point monarch for society,medicine,history,0.9926882154208466,False
+big recipe for very small taste on,cooking,cooking,0.998882970319843,True
+that in for point according framing with image the that,photography,photography,0.9234043830754848,True
+takeoff thing a with question new in safety the turbine in,aviation,aviation,0.9999005407919334,True
+altitude passenger moment thing a an altitude element way speed,aviation,aviation,0.9997345328444421,True
+this verdict set way period the in diploma moment,law,law,0.8179072436836119,True
+speed answer element itinerary according element group,travel,travel,0.9990141847247437,True
+society with period very plaintiff on thing,law,law,0.9985365502288415,True
+example case set recipe preparation today small taste answer,cooking,cooking,0.999979379561519,True
+altitude element with and turbine an case in speed passenger thing,aviation,aviation,0.9999458408236531,True
+stratigraphy small excavation very very an an text small big for,archaeology,archaeology,0.8017316912701642,True
+excavation example for diploma case document example text diploma text,education,education,0.9999253451128363,True
+archive moment example according society dynasty according set text very an with,history,history,0.9997872824273009,True
+question very stage in very audience moment screenplay set answer,cinema,cinema,0.5881322285790369,True
+moment element way thing value notary in type for mortgage question,realestate,finance,0.9814566967889128,False
+measurement an in in very moment enzyme very example,biology,physics,0.2925562801596498,False
+actuator question speed that element in calibration,robotics,robotics,0.9439162839571194,True
+screenplay tailoring thing an answer element creation,cinema,cinema,0.9829754927634314,True
+case audience example framing and big image thing for,agriculture,photography,0.9993931640476413,False
+study archive a point according society monarch set,history,history,0.9999103238319199,True
+a question the level turbine takeoff small today safety way that,aviation,aviation,0.9937385549541251,True
+style element tailoring group orchestra group according creation an small,fashion,music,0.9701535546866624,False
+case altitude type part fuel safety with in engine passenger answer level,automotive,aviation,0.99955983166035,False
+point dunk coach a penalty part question championship the and case in,football,football,0.9993647622774863,True
+new passenger excursion speed customs fuel for type very,travel,travel,0.9999825868240059,True
+type speed in today on today thing graphics very and,videogames,videogames,0.26569110086224396,True
+very score small point example audience designer way element small,music,fashion,0.965196444130963,False
+example small a creation big image designer an element level,fashion,cinema,0.539645562095682,False
+level moment customs in an safety level itinerary in,travel,travel,0.9993962251232434,True
+moment case theory new new model membrane measurement,biology,physics,0.952449187358426,False
+level image way creation case score according group stage according level part,music,music,0.9999420247952644,True
+spices that group with table case way type preparation,cooking,cooking,0.5334844430361191,True
+image question moment melody on type,music,music,0.990990408223207,True
+thing on question plaintiff document an,law,law,0.9962399973128764,True
+moment example point question cargo thing engine safety tide way an,marine,marine,0.9980856777328335,True
+soil biodiversity in season and carbon for example the small a,ecology,ecology,0.9912281931029159,True
+score style with very thing score group this for,music,music,0.9591736326614374,True
+editing style stage in and with tripod director and level,cinema,cinema,0.9999639950585413,True
+calibration in data according version question type actuator this,robotics,robotics,0.9985027411392945,True
+moment case an image director part according case in stage melody,cinema,cinema,0.9896532721171892,True
+for this grape according question vineyard quality this for part,wine,wine,0.9999876173070436,True
+way speed this for thing example with itinerary question new,travel,travel,0.9856848185765407,True
+championship score thing small court level thing,basketball,football,0.9742137476902589,False
+case engine according takeoff and point case,aviation,aviation,0.9951468934445186,True
+rate portfolio case big small level according bond rate according the group contract,finance,finance,0.9999996634560913,True
+a that style stage image on this framing element on,photography,fashion,0.8055054000469128,False
+point case answer in water thing biodiversity carbon today on according season,ecology,ecology,0.9950802742562875,True
+document plaintiff example set point group in the an that verdict,law,law,0.9999403679604508,True
+thing taste spices for a vintage moment on small part an,wine,cooking,0.9999922367628521,False
+way thing example in case this text court plaintiff text according stratigraphy,law,law,0.9999979131842728,True
+big according for director creation point image audience director small moment,cinema,cinema,0.9988675017192141,True
+an case mutation an moment group experiment big experiment this mutation,biology,biology,0.8399810117191208,True
+new for baking today grape spices moment on taste table answer answer,cooking,cooking,0.9990757819885345,True
+risk risk dividend moment element risk question very portfolio,finance,realestate,0.9339642503186207,False
+new solvent thing for theory type solvent question,chemistry,chemistry,0.999967366120169,True
+this recipe vintage with taste quality preparation point element moment with answer group,cooking,wine,0.704181744645447,False
+small text a court part verdict this diploma new study big group that society,law,law,0.9999541384027322,True
+small big example with theory acceleration answer quantum very data big according data,physics,physics,0.9999825858306968,True
+answer plaintiff new study with example type text small,law,law,0.9999300113174268,True
+actuator data data calibration point type very new screen the this group moment,robotics,robotics,0.9991190505762564,True
+big moment a data enzyme point model,biology,physics,0.7585716903316215,False
+set mutation big acceleration in way experiment,physics,physics,0.6356864533815123,True
+today for data data model moment nebula the,astronomy,physics,0.8540634163196047,False
+small recipe case in element spices an element level flavor new,cooking,cooking,0.9955484220004549,True
+nebula very part measurement level example galaxy case an data model part enzyme,astronomy,physics,0.7145329850825096,False
+example lesson period a according type document,education,education,0.9964677798022618,True
+stage a level question this group level image editing aperture,photography,cinema,0.9990104164873164,False
+an group with set experiment bond small that theory answer on,chemistry,chemistry,0.9999099788243269,True
+version new on console an system that data,videogames,videogames,0.9678812326040817,True
+level small experiment case type telescope in nebula,astronomy,astronomy,0.9999454860184972,True
+safety new brakes example the and answer with speed question according fuel,automotive,automotive,0.9957097885129194,True
+that the speed speed answer this for today customs,travel,travel,0.9922404516499351,True
+on moment value contract moment that investment mortgage notary set,realestate,realestate,0.9136311665034828,True
+mutation according the answer very membrane model bond example model question point model,biology,biology,0.9988460958815659,True
+lease moment in on bond investment according contract,finance,finance,0.9996859243257262,True
+monarch document a with that and new moment document dynasty text,history,history,0.9990576947489438,True
+algorithm thing screen in with set example screen thing small set algorithm,computing,computing,0.9999860762117548,True
+point very small competition victory coach penalty question set an part,football,football,0.9996422684876308,True
+screenplay element stage and very very a style audience case,cinema,cinema,0.9961939878832978,True
+answer dividend value dividend thing value with notary new on today contract big,finance,finance,0.9676585830272652,True
+the dividend bond rate value small type point,finance,finance,0.9999851752837149,True
+question today point big data point example data today acceleration moment,physics,physics,0.8923167147600651,True
+an an study today document part dynasty dynasty,history,history,0.9452079167606461,True
+example the case lease investment rate group big today element,realestate,finance,0.9807731786789189,False
+question console version example case actuator version answer an,videogames,robotics,0.9977917961193842,False
+on experiment type enzyme set very measurement nebula experiment new nebula with,astronomy,astronomy,0.9999983993571825,True
+case screen part with an compiler a example point case,computing,computing,0.9999648101049814,True
+moment prescription a that the a symptom study health,medicine,medicine,0.9999945432527754,True
+audience thing way director image with part point,cinema,cinema,0.8703848779883876,True
+stage audience orchestra melody today an in with part,music,music,0.9999009166661269,True
+coach example point with championship type today case new penalty element rebound,football,football,0.9998713861857729,True
+element rate question this moment group contract mortgage part,archaeology,finance,0.996827744721367,False
+anticyclone very group thing soil and gust with,weather,weather,0.9993826022769374,True
+algorithm case calibration element in thing speed for type a,computing,computing,0.9494566685196933,True
+big a trip on tide case question moment type tide way safety,marine,marine,0.8793667094136535,True
+point prescription set set diagnosis moment care this,medicine,medicine,0.9999862716554958,True
+small thing type anticyclone point season precipitation soil irrigation,weather,ecology,0.7216168351730351,False
+type for water this set this case anticyclone thing water irrigation harvest growth,agriculture,agriculture,0.9998900427591343,True
+on the fuel set takeoff group question engine,aviation,aviation,0.999195121140437,True
+period case society and according diploma period and,education,education,0.9424765616449589,True
+very way new thing screenplay editing style,cinema,cinema,0.9999432338825122,True
+in field measurement acceleration small example question measurement,physics,physics,0.9969095672497066,True
+according season thing small case water soil compost group according,gardening,agriculture,0.9877353705247723,False
+seed answer answer carbon case set part an set water seed soil,agriculture,weather,0.7399289277280647,False
+melody example image set screenplay type element an element creation very image editing,cinema,cinema,0.9905396780925961,True
+level small baking today an recipe vineyard small table table taste answer in,cooking,wine,0.5299442333825582,False
+creation for thing question tailoring thing for designer for,fashion,photography,0.7165339845944744,False
+engine fuel type the question with trip with safety,automotive,aviation,0.9510061110355535,False
+baking thing according quality thing quality case question small recipe a,cooking,cooking,0.9999769207632323,True
+type today verdict for document verdict period on very document,gardening,law,0.9431871301024087,False
+for turbine point example speed on on turbine this anchor,aviation,aviation,0.999856301136191,True
+table type type vintage part vintage today,wine,wine,0.9969979833190563,True
+according this and with court court case text this according study type,law,law,0.9999991589530622,True
+set safety safety new according excursion excursion part example,travel,travel,0.9997183341651655,True
+value new portfolio element according on way set,finance,finance,0.5086153014902604,True
+vineyard this table table example type vintage type in taste type,marine,wine,0.999942850686138,False
+taste and vintage part according that moment new vintage quality,wine,wine,0.9999601413981064,True
+in big moment quantum way level that measurement measurement an a,physics,physics,0.9828554582457694,True
+verdict new new according document moment period,law,law,0.5494934945741522,True

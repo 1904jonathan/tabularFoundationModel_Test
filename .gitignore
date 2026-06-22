@@ -1,0 +1,36 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# ---- Environnements virtuels ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Poids de modèles / checkpoints (téléchargés ou exportés) ----
+*.ckpt
+*.pkl
+*.pt
+*.pth
+.cache/
+# cache local éventuel du Hugging Face Hub
+huggingface/
+
+# ---- Sorties générées : on garde les CSV (légers, reproductibles),
+#      on ignore les figures PNG (régénérables via run_benchmark.py) ----
+outputs/plots/*.png
+# sorties de l'exemple autonome (régénérées à chaque exécution)
+tabicl_predictions.csv
+tabicl_probabilities.csv
+
+# ---- Repo TabICL cloné localement pour inspection (ne pas committer) ----
+tabicl_repo/
+
+# ---- OS / IDE ----
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
