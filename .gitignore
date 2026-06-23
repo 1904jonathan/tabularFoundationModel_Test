@@ -34,3 +34,6 @@ tabicl_repo/
 Thumbs.db
 .idea/
 *.swp
+
+# ---- Paper / manuscript (kept PRIVATE until publication; do not push) ----
+outputs/paper/
