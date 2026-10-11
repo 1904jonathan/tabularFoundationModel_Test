@@ -1,0 +1,323 @@
+===== START e1_multiseed Sat Oct 10 22:31:16 JDT 2026 =====
+[22:31:25] E1 seed 0
+[22:33:15]   TabICL               acc=0.8128 f1M=0.7930 ll=0.790 GAER=0.768 (x8.54) fit=0.8s pred=46.9s
+[22:33:17]   RandomForest         acc=0.7511 f1M=0.7103 ll=1.515 GAER=0.807 (x9.08) fit=1.4s pred=0.1s
+[22:33:26]   XGBoost              acc=0.7352 f1M=0.7012 ll=0.958 GAER=0.810 (x9.15) fit=8.7s pred=0.0s
+[22:33:41]   LightGBM             acc=0.7397 f1M=0.7060 ll=1.302 GAER=0.789 (x9.09) fit=15.7s pred=0.1s
+  File "C:\Users\<user>\anaconda3\Lib\site-packages\joblib\externals\loky\backend\context.py", line 257, in _count_physical_cores
+    cpu_info = subprocess.run(
+        "wmic CPU Get NumberOfCores /Format:csv".split(),
+        capture_output=True,
+        text=True,
+    )
+  File "C:\Users\<user>\anaconda3\Lib\subprocess.py", line 554, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\<user>\anaconda3\Lib\subprocess.py", line 1039, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        pass_fds, cwd, env,
+                        ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                        gid, gids, uid, umask,
+                        ^^^^^^^^^^^^^^^^^^^^^^
+                        start_new_session, process_group)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\<user>\anaconda3\Lib\subprocess.py", line 1554, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+                             # no special security
+                             ^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+                             cwd,
+                             ^^^^
+                             startupinfo)
+                             ^^^^^^^^^^^^
+[22:34:01]   HistGB               acc=0.7420 f1M=0.7031 ll=1.373 GAER=0.779 (x8.56) fit=18.8s pred=0.4s
+[22:34:01]   LogisticRegression   acc=0.7283 f1M=0.6989 ll=0.999 GAER=0.790 (x9.27) fit=0.1s pred=0.0s
+[22:34:02]   KNN                  acc=0.6073 f1M=0.5592 ll=3.056 GAER=0.884 (x9.93) fit=0.0s pred=0.4s
+[22:34:03]   MLP                  acc=0.7100 f1M=0.6728 ll=1.057 GAER=0.787 (x9.12) fit=1.0s pred=0.0s
+[22:34:03] E1 seed 1
+[22:36:12]   TabICL               acc=0.8337 f1M=0.8198 ll=0.674 GAER=0.818 (x10.21) fit=0.6s pred=56.0s
+[22:36:14]   RandomForest         acc=0.7905 f1M=0.7720 ll=1.358 GAER=0.856 (x10.24) fit=2.0s pred=0.2s
+[22:36:29]   XGBoost              acc=0.7581 f1M=0.7425 ll=0.896 GAER=0.848 (x10.44) fit=14.6s pred=0.0s
+[22:37:02]   LightGBM             acc=0.7689 f1M=0.7553 ll=1.215 GAER=0.841 (x10.48) fit=32.5s pred=0.1s
+[22:37:24]   HistGB               acc=0.7603 f1M=0.7434 ll=1.277 GAER=0.847 (x10.69) fit=21.3s pred=0.5s
+[22:37:24]   LogisticRegression   acc=0.7300 f1M=0.7064 ll=0.946 GAER=0.832 (x10.02) fit=0.1s pred=0.0s
+[22:37:25]   KNN                  acc=0.6220 f1M=0.5851 ll=2.530 GAER=0.891 (x10.90) fit=0.0s pred=0.0s
+[22:37:26]   MLP                  acc=0.7171 f1M=0.6901 ll=0.963 GAER=0.893 (x10.81) fit=1.0s pred=0.0s
+[22:37:26] E1 seed 2
+[22:39:33]   TabICL               acc=0.8429 f1M=0.8365 ll=0.747 GAER=0.703 (x8.47) fit=1.0s pred=62.4s
+[22:39:35]   RandomForest         acc=0.8047 f1M=0.7793 ll=1.366 GAER=0.750 (x8.89) fit=1.8s pred=0.2s
+[22:39:46]   XGBoost              acc=0.7983 f1M=0.7848 ll=0.890 GAER=0.747 (x8.40) fit=10.9s pred=0.0s
+[22:40:04]   LightGBM             acc=0.7856 f1M=0.7702 ll=1.264 GAER=0.752 (x8.54) fit=17.0s pred=0.2s
+[22:40:26]   HistGB               acc=0.7813 f1M=0.7610 ll=1.284 GAER=0.738 (x8.75) fit=21.0s pred=0.3s
+[22:40:26]   LogisticRegression   acc=0.7728 f1M=0.7611 ll=0.938 GAER=0.748 (x8.50) fit=0.1s pred=0.0s
+[22:40:26]   KNN                  acc=0.6752 f1M=0.6498 ll=2.655 GAER=0.817 (x9.18) fit=0.0s pred=0.0s
+[22:40:27]   MLP                  acc=0.7665 f1M=0.7429 ll=0.904 GAER=0.791 (x9.21) fit=1.0s pred=0.0s
+[22:40:27] E1 seed 3
+[22:42:00]   TabICL               acc=0.8023 f1M=0.7893 ll=0.837 GAER=0.765 (x9.20) fit=1.1s pred=46.6s
+[22:42:01]   RandomForest         acc=0.7186 f1M=0.6900 ll=1.644 GAER=0.826 (x9.57) fit=1.3s pred=0.1s
+[22:42:11]   XGBoost              acc=0.7256 f1M=0.6982 ll=1.151 GAER=0.780 (x9.11) fit=9.4s pred=0.0s
+[22:42:26]   LightGBM             acc=0.6930 f1M=0.6637 ll=1.625 GAER=0.818 (x9.70) fit=14.4s pred=0.1s
+[22:42:41]   HistGB               acc=0.6860 f1M=0.6501 ll=1.674 GAER=0.800 (x9.29) fit=15.1s pred=0.3s
+[22:42:42]   LogisticRegression   acc=0.7302 f1M=0.7083 ll=1.043 GAER=0.793 (x9.20) fit=0.1s pred=0.0s
+[22:42:42]   KNN                  acc=0.6140 f1M=0.5621 ll=3.224 GAER=0.867 (x9.92) fit=0.0s pred=0.0s
+[22:42:43]   MLP                  acc=0.7163 f1M=0.6891 ll=1.112 GAER=0.820 (x9.60) fit=0.9s pred=0.0s
+[22:42:43] E1 seed 4
+[22:44:34]   TabICL               acc=0.8366 f1M=0.8232 ll=0.750 GAER=0.737 (x8.78) fit=0.7s pred=55.9s
+[22:44:36]   RandomForest         acc=0.7527 f1M=0.7193 ll=1.538 GAER=0.817 (x9.53) fit=1.3s pred=0.1s
+[22:44:45]   XGBoost              acc=0.7419 f1M=0.7191 ll=0.953 GAER=0.800 (x9.53) fit=9.2s pred=0.0s
+[22:44:59]   LightGBM             acc=0.7505 f1M=0.7270 ll=1.344 GAER=0.802 (x9.50) fit=14.1s pred=0.1s
+[22:45:18]   HistGB               acc=0.7355 f1M=0.7087 ll=1.395 GAER=0.813 (x9.57) fit=17.7s pred=0.4s
+[22:45:18]   LogisticRegression   acc=0.7355 f1M=0.7105 ll=1.009 GAER=0.764 (x8.74) fit=0.1s pred=0.0s
+[22:45:18]   KNN                  acc=0.6495 f1M=0.6048 ll=2.918 GAER=0.871 (x9.85) fit=0.0s pred=0.0s
+[22:45:19]   MLP                  acc=0.7333 f1M=0.7044 ll=0.995 GAER=0.831 (x9.70) fit=0.8s pred=0.0s
+[22:45:19] E1 seed 5
+[22:46:58]   TabICL               acc=0.8330 f1M=0.8217 ll=0.708 GAER=0.773 (x8.85) fit=0.8s pred=49.8s
+[22:47:00]   RandomForest         acc=0.7751 f1M=0.7539 ll=1.131 GAER=0.812 (x9.40) fit=1.6s pred=0.1s
+[22:47:09]   XGBoost              acc=0.7595 f1M=0.7437 ll=0.952 GAER=0.778 (x9.16) fit=8.9s pred=0.0s
+[22:47:22]   LightGBM             acc=0.7684 f1M=0.7511 ll=1.216 GAER=0.808 (x9.48) fit=12.7s pred=0.1s
+[22:47:38]   HistGB               acc=0.7439 f1M=0.7286 ll=1.324 GAER=0.800 (x9.36) fit=15.0s pred=0.3s
+[22:47:38]   LogisticRegression   acc=0.7416 f1M=0.7295 ll=0.948 GAER=0.819 (x9.40) fit=0.1s pred=0.0s
+[22:47:38]   KNN                  acc=0.6214 f1M=0.5861 ll=2.421 GAER=0.876 (x10.00) fit=0.0s pred=0.0s
+[22:47:39]   MLP                  acc=0.7639 f1M=0.7521 ll=0.886 GAER=0.811 (x9.63) fit=0.9s pred=0.0s
+[22:47:39] E1 seed 6
+[22:49:14]   TabICL               acc=0.8165 f1M=0.7991 ll=0.808 GAER=0.725 (x8.01) fit=1.6s pred=45.2s
+[22:49:16]   RandomForest         acc=0.7408 f1M=0.7105 ll=1.656 GAER=0.788 (x8.81) fit=1.4s pred=0.1s
+[22:49:24]   XGBoost              acc=0.7156 f1M=0.6954 ll=1.093 GAER=0.758 (x8.71) fit=8.7s pred=0.0s
+[22:49:40]   LightGBM             acc=0.6881 f1M=0.6691 ll=1.526 GAER=0.765 (x8.87) fit=15.6s pred=0.1s
+[22:50:13]   HistGB               acc=0.6674 f1M=0.6412 ll=1.677 GAER=0.800 (x9.09) fit=30.6s pred=0.8s
+[22:50:13]   LogisticRegression   acc=0.7339 f1M=0.7080 ll=1.050 GAER=0.759 (x8.68) fit=0.2s pred=0.0s
+[22:50:13]   KNN                  acc=0.6537 f1M=0.6209 ll=2.761 GAER=0.828 (x9.15) fit=0.0s pred=0.0s
+[22:50:14]   MLP                  acc=0.7087 f1M=0.6834 ll=1.075 GAER=0.827 (x9.09) fit=1.1s pred=0.0s
+[22:50:14] E1 seed 7
+[22:52:07]   TabICL               acc=0.7977 f1M=0.7784 ll=0.864 GAER=0.773 (x9.17) fit=1.1s pred=57.0s
+[22:52:09]   RandomForest         acc=0.7011 f1M=0.6561 ll=1.766 GAER=0.838 (x9.79) fit=1.5s pred=0.1s
+[22:52:22]   XGBoost              acc=0.7011 f1M=0.6718 ll=1.181 GAER=0.831 (x9.73) fit=12.4s pred=0.0s
+[22:52:42]   LightGBM             acc=0.7080 f1M=0.6809 ll=1.787 GAER=0.811 (x9.54) fit=20.2s pred=0.1s
+[22:53:02]   HistGB               acc=0.6966 f1M=0.6659 ll=1.869 GAER=0.826 (x9.70) fit=19.1s pred=0.4s
+[22:53:02]   LogisticRegression   acc=0.6920 f1M=0.6590 ll=1.145 GAER=0.813 (x9.49) fit=0.1s pred=0.0s
+[22:53:02]   KNN                  acc=0.6138 f1M=0.5532 ll=3.204 GAER=0.869 (x10.06) fit=0.0s pred=0.0s
+[22:53:03]   MLP                  acc=0.6805 f1M=0.6600 ll=1.135 GAER=0.842 (x9.89) fit=1.0s pred=0.0s
+[22:53:04] E1 seed 8
+[22:54:40]   TabICL               acc=0.8506 f1M=0.8380 ll=0.723 GAER=0.681 (x8.57) fit=0.8s pred=47.7s
+[22:54:41]   RandomForest         acc=0.7727 f1M=0.7443 ll=1.168 GAER=0.771 (x9.67) fit=1.3s pred=0.1s
+[22:54:50]   XGBoost              acc=0.7641 f1M=0.7376 ll=0.966 GAER=0.743 (x9.28) fit=8.2s pred=0.0s
+[22:55:02]   LightGBM             acc=0.7554 f1M=0.7348 ll=1.291 GAER=0.788 (x9.39) fit=12.2s pred=0.1s
+[22:55:19]   HistGB               acc=0.7446 f1M=0.7197 ll=1.363 GAER=0.797 (x9.81) fit=15.6s pred=0.4s
+[22:55:19]   LogisticRegression   acc=0.7749 f1M=0.7539 ll=0.970 GAER=0.750 (x9.58) fit=0.1s pred=0.0s
+[22:55:19]   KNN                  acc=0.6753 f1M=0.6236 ll=2.635 GAER=0.833 (x10.01) fit=0.0s pred=0.0s
+[22:55:20]   MLP                  acc=0.7251 f1M=0.6777 ll=1.028 GAER=0.827 (x10.36) fit=0.7s pred=0.0s
+[22:55:20] E1 seed 9
+[22:56:53]   TabICL               acc=0.8575 f1M=0.8516 ll=0.749 GAER=0.688 (x8.23) fit=0.7s pred=45.7s
+[22:56:54]   RandomForest         acc=0.7684 f1M=0.7492 ll=1.443 GAER=0.808 (x9.41) fit=1.3s pred=0.1s
+[22:57:03]   XGBoost              acc=0.7595 f1M=0.7479 ll=0.962 GAER=0.787 (x9.20) fit=8.3s pred=0.0s
+[22:57:15]   LightGBM             acc=0.7617 f1M=0.7468 ll=1.321 GAER=0.794 (x9.44) fit=11.5s pred=0.1s
+[22:57:30]   HistGB               acc=0.7617 f1M=0.7491 ll=1.376 GAER=0.785 (x9.09) fit=14.7s pred=0.3s
+[22:57:30]   LogisticRegression   acc=0.7350 f1M=0.7185 ll=0.975 GAER=0.815 (x9.73) fit=0.1s pred=0.0s
+[22:57:30]   KNN                  acc=0.6459 f1M=0.6219 ll=2.641 GAER=0.862 (x9.81) fit=0.0s pred=0.0s
+[22:57:31]   MLP                  acc=0.6793 f1M=0.6379 ll=1.074 GAER=0.861 (x10.27) fit=0.8s pred=0.0s
+[22:57:31] E1 done. Friedman chi2=50.767 p=1.02e-08; TabICL first on 10/10 seeds
+                    accuracy_mean  accuracy_std  f1_macro_mean  f1_macro_std  GAER_mean  clean_accuracy_mean
+model                                                                                                       
+TabICL                   0.828354      0.020200       0.815062      0.024021   0.743045             0.870006
+RandomForest             0.757573      0.031626       0.728495      0.038375   0.807392             0.795919
+XGBoost                  0.745882      0.028003       0.724222      0.033216   0.788236             0.783766
+LightGBM                 0.741935      0.034030       0.720489      0.038301   0.796840             0.778242
+LogisticRegression       0.737428      0.023461       0.715401      0.028762   0.788306             0.776192
+HistGB                   0.731925      0.036608       0.707072      0.042035   0.798389             0.767106
+MLP                      0.720067      0.029365       0.691036      0.034896   0.828946             0.759013
+KNN                      0.637796      0.025495       0.596664      0.032587   0.859908             0.671185
+             baseline  mean_diff  std_diff  wins  losses  wilcoxon_stat  wilcoxon_p    holm_p
+0              HistGB   0.107990  0.026381    10       0            0.0    0.001953  0.013672
+1                 KNN   0.218398  0.020220    10       0            0.0    0.001953  0.013672
+2            LightGBM   0.094573  0.022966    10       0            0.0    0.001953  0.013672
+3  LogisticRegression   0.099661  0.018863    10       0            0.0    0.001953  0.013672
+4                 MLP   0.124026  0.039402    10       0            0.0    0.001953  0.013672
+5        RandomForest   0.086567  0.023043    10       0            0.0    0.001953  0.013672
+6             XGBoost   0.090840  0.017411    10       0            0.0    0.001953  0.013672
+                    avg_rank  friedman_chi2    friedman_p  n_seeds  tabicl_rank1_count
+model                                                                                 
+TabICL                   1.0      50.766667  1.021149e-08       10                  10
+RandomForest             3.0      50.766667  1.021149e-08       10                  10
+XGBoost                  3.9      50.766667  1.021149e-08       10                  10
+LightGBM                 4.0      50.766667  1.021149e-08       10                  10
+LogisticRegression       4.7      50.766667  1.021149e-08       10                  10
+HistGB                   5.4      50.766667  1.021149e-08       10                  10
+MLP                      6.0      50.766667  1.021149e-08       10                  10
+KNN                      8.0      50.766667  1.021149e-08       10                  10
+===== END e1_multiseed exit=0 Sat Oct 10 22:57:33 JDT 2026 =====
+===== START e2_tuned Sat Oct 10 22:57:33 JDT 2026 =====
+[22:57:38] E2 start: train=(1296, 64) test=(432, 64)
+[22:59:27]   TabICL_n8            acc=0.8310 f1M=0.8094 ll=0.683 GAER=0.795 (x9.56) fit=0.7s pred=48.4s
+[22:59:39]   TabICL_n1            acc=0.8218 f1M=0.7988 ll=0.728 GAER=0.805 (x9.32) fit=0.5s pred=6.3s
+[22:59:40]   RandomForest_fixed   acc=0.7616 f1M=0.7145 ll=1.368 GAER=0.854 (x10.21) fit=1.2s pred=0.1s
+[22:59:48]   XGBoost_fixed        acc=0.7616 f1M=0.7233 ll=0.966 GAER=0.816 (x9.55) fit=7.7s pred=0.0s
+[23:00:00]   LightGBM_fixed       acc=0.7477 f1M=0.7105 ll=1.408 GAER=0.844 (x10.18) fit=11.8s pred=0.1s
+  File "C:\Users\<user>\anaconda3\Lib\site-packages\joblib\externals\loky\backend\context.py", line 257, in _count_physical_cores
+    cpu_info = subprocess.run(
+        "wmic CPU Get NumberOfCores /Format:csv".split(),
+        capture_output=True,
+        text=True,
+    )
+  File "C:\Users\<user>\anaconda3\Lib\subprocess.py", line 554, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\<user>\anaconda3\Lib\subprocess.py", line 1039, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        pass_fds, cwd, env,
+                        ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                        gid, gids, uid, umask,
+                        ^^^^^^^^^^^^^^^^^^^^^^
+                        start_new_session, process_group)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\<user>\anaconda3\Lib\subprocess.py", line 1554, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+                             # no special security
+                             ^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+                             cwd,
+                             ^^^^
+                             startupinfo)
+                             ^^^^^^^^^^^^
+[23:00:13]   HistGB_fixed         acc=0.7407 f1M=0.7077 ll=1.483 GAER=0.812 (x9.60) fit=12.1s pred=0.3s
+[23:00:13]   LogisticRegression_fixed acc=0.7130 f1M=0.6824 ll=0.978 GAER=0.815 (x9.33) fit=0.1s pred=0.0s
+[23:00:13]   KNN_fixed            acc=0.6435 f1M=0.5799 ll=2.386 GAER=0.883 (x10.19) fit=0.0s pred=0.4s
+[23:00:14]   MLP_fixed            acc=0.7153 f1M=0.6822 ll=0.959 GAER=0.862 (x10.15) fit=0.5s pred=0.0s
+[23:00:14] E2 tuning XGBoost
+[23:03:12]   XGBoost_tuned        acc=0.7593 f1M=0.7226 ll=0.978 GAER=0.808 (x9.55) fit=11.1s pred=0.0s
+[23:03:12]   best CV f1M=0.7374 params={'subsample': 0.8, 'n_estimators': 800, 'min_child_weight': 1, 'max_depth': 8, 'learning_rate': 0.1, 'colsample_bytree': 0.8} (167s)
+[23:03:12] E2 tuning LightGBM
+[23:09:29]   LightGBM_tuned       acc=0.7477 f1M=0.7091 ll=1.273 GAER=0.853 (x10.41) fit=22.3s pred=0.1s
+[23:09:29]   best CV f1M=0.7404 params={'subsample': 0.8, 'num_leaves': 127, 'n_estimators': 800, 'min_child_samples': 10, 'learning_rate': 0.03, 'colsample_bytree': 0.5} (354s)
+[23:09:29] E2 tuning HistGB
+[23:16:07]   HistGB_tuned         acc=0.7639 f1M=0.7353 ll=1.480 GAER=0.814 (x9.55) fit=13.6s pred=0.3s
+[23:16:07]   best CV f1M=0.7261 params={'max_leaf_nodes': 15, 'max_iter': 400, 'learning_rate': 0.05, 'l2_regularization': 0.0} (384s)
+[23:16:07] E2 tuning RandomForest
+[23:19:15]   RandomForest_tuned   acc=0.7755 f1M=0.7368 ll=1.333 GAER=0.835 (x10.12) fit=3.7s pred=0.2s
+[23:19:15]   best CV f1M=0.7308 params={'n_estimators': 800, 'min_samples_leaf': 1, 'max_features': 0.3} (184s)
+[23:19:15] E2 tuning MLP
+[23:19:35]   MLP_tuned            acc=0.7176 f1M=0.6855 ll=0.957 GAER=0.861 (x10.08) fit=0.2s pred=0.0s
+[23:19:35]   best CV f1M=0.7365 params={'learning_rate_init': 0.003, 'hidden_layer_sizes': [128], 'alpha': 0.001} (20s)
+[23:19:35] E2 tuning LogisticRegression
+[23:19:35]   LogisticRegression_tuned acc=0.7130 f1M=0.6824 ll=0.978 GAER=0.815 (x9.33) fit=0.1s pred=0.0s
+[23:19:35]   best CV f1M=0.7490 params={'C': 10} (0s)
+[23:19:35] E2 tuning KNN
+[23:19:36]   KNN_tuned            acc=0.6435 f1M=0.5799 ll=2.386 GAER=0.883 (x10.19) fit=0.0s pred=0.0s
+[23:19:36]   best CV f1M=0.6532 params={'n_neighbors': 15, 'weights': 'distance'} (1s)
+[23:19:40] E2 done
+                       model  accuracy  f1_macro  log_loss      GAER  superclass_acc  fit_time_s
+0                  TabICL_n8  0.831019  0.809351  0.682570  0.794521        0.965278    0.653695
+1                  TabICL_n1  0.821759  0.798801  0.728037  0.805195        0.965278    0.515798
+2         RandomForest_fixed  0.761574  0.714520  1.367616  0.854369        0.965278    1.230898
+3              XGBoost_fixed  0.761574  0.723281  0.965926  0.815534        0.956019    7.712696
+4             LightGBM_fixed  0.747685  0.710475  1.408292  0.844037        0.960648   11.783623
+5               HistGB_fixed  0.740741  0.707678  1.483148  0.812500        0.951389   12.054769
+6   LogisticRegression_fixed  0.712963  0.682369  0.978277  0.814516        0.946759    0.070504
+7                  KNN_fixed  0.643519  0.579859  2.386176  0.883117        0.958333    0.002491
+8                  MLP_fixed  0.715278  0.682238  0.959496  0.861789        0.960648    0.549019
+9              XGBoost_tuned  0.759259  0.722563  0.977588  0.807692        0.953704   11.056861
+10            LightGBM_tuned  0.747685  0.709060  1.273184  0.853211        0.962963   22.262132
+11              HistGB_tuned  0.763889  0.735295  1.479723  0.813725        0.956019   13.622585
+12        RandomForest_tuned  0.775463  0.736830  1.333437  0.835052        0.962963    3.690741
+13                 MLP_tuned  0.717593  0.685514  0.957493  0.860656        0.960648    0.196627
+14  LogisticRegression_tuned  0.712963  0.682369  0.978277  0.814516        0.946759    0.061850
+15                 KNN_tuned  0.643519  0.579859  2.386176  0.883117        0.958333    0.002083
+                   baseline  tabicl_right_baseline_wrong  tabicl_wrong_baseline_right  mcnemar_exact_p  f1_macro_diff  boot_ci_low  boot_ci_high  boot_frac_le0
+0             XGBoost_tuned                           42                           11     2.247559e-05       0.086789     0.048751      0.128983            0.0
+1            LightGBM_tuned                           47                           11     2.031595e-06       0.100291     0.061887      0.142298            0.0
+2              HistGB_tuned                           43                           14     1.538890e-04       0.074057     0.035935      0.115643            0.0
+3        RandomForest_tuned                           33                            9     2.715392e-04       0.072521     0.038442      0.109798            0.0
+4                 MLP_tuned                           58                            9     6.811498e-10       0.123837     0.084863      0.167689            0.0
+5  LogisticRegression_tuned                           62                           11     9.089007e-10       0.126982     0.086684      0.171684            0.0
+6                 KNN_tuned                           93                           12     1.100927e-16       0.229493     0.180006      0.280006            0.0
+===== END e2_tuned exit=0 Sat Oct 10 23:19:44 JDT 2026 =====
+===== START e3_lsa_dim Sat Oct 10 23:19:44 JDT 2026 =====
+[23:19:49] E3: TF-IDF vocabulary size on train = 2630
+[23:19:49] E3 d=16 (effective 16)
+[23:20:40]   TabICL               acc=0.4583 f1M=0.3917 ll=1.368 GAER=0.932 (x10.88) fit=0.5s pred=23.1s
+[23:20:45]   XGBoost              acc=0.3796 f1M=0.3488 ll=2.034 GAER=0.907 (x10.46) fit=4.8s pred=0.0s
+[23:20:45]   LogisticRegression   acc=0.3958 f1M=0.3330 ll=1.522 GAER=0.885 (x10.26) fit=0.1s pred=0.0s
+[23:20:46]   RandomForest         acc=0.4375 f1M=0.3882 ll=1.908 GAER=0.922 (x10.55) fit=0.9s pred=0.1s
+[23:20:46] E3 d=32 (effective 32)
+[23:21:42]   TabICL               acc=0.5116 f1M=0.4680 ll=1.301 GAER=0.929 (x10.55) fit=0.5s pred=27.7s
+[23:21:48]   XGBoost              acc=0.4259 f1M=0.3940 ll=1.852 GAER=0.923 (x10.43) fit=6.0s pred=0.0s
+[23:21:48]   LogisticRegression   acc=0.4537 f1M=0.4267 ll=1.542 GAER=0.915 (x10.42) fit=0.1s pred=0.0s
+[23:21:49]   RandomForest         acc=0.4468 f1M=0.3802 ll=1.645 GAER=0.937 (x10.43) fit=1.0s pred=0.1s
+[23:21:49] E3 d=64 (effective 64)
+[23:23:12]   TabICL               acc=0.8310 f1M=0.8094 ll=0.683 GAER=0.795 (x9.56) fit=0.5s pred=40.3s
+[23:23:20]   XGBoost              acc=0.7616 f1M=0.7233 ll=0.966 GAER=0.816 (x9.55) fit=7.7s pred=0.0s
+[23:23:20]   LogisticRegression   acc=0.7130 f1M=0.6824 ll=0.978 GAER=0.815 (x9.33) fit=0.1s pred=0.0s
+[23:23:22]   RandomForest         acc=0.7616 f1M=0.7145 ll=1.368 GAER=0.854 (x10.21) fit=1.2s pred=0.1s
+[23:23:22] E3 d=128 (effective 128)
+[23:26:02]   TabICL               acc=0.8843 f1M=0.8784 ll=0.538 GAER=0.700 (x9.23) fit=0.7s pred=74.0s
+[23:26:16]   XGBoost              acc=0.8542 f1M=0.8436 ll=0.653 GAER=0.730 (x9.01) fit=14.2s pred=0.0s
+[23:26:16]   LogisticRegression   acc=0.8681 f1M=0.8575 ll=0.637 GAER=0.667 (x8.16) fit=0.1s pred=0.0s
+[23:26:18]   RandomForest         acc=0.8542 f1M=0.8388 ll=1.151 GAER=0.746 (x9.53) fit=1.7s pred=0.1s
+[23:26:18] E3 d=256 (effective 256)
+===== END e3_lsa_dim exit=1 Sat Oct 10 23:42:24 JDT 2026 =====
+===== START e4_20newsgroups Sat Oct 10 23:42:24 JDT 2026 =====
+[23:42:35] E4 data: {'status': 'ok', 'train_full': 11314, 'train_nonempty': 11014, 'test_full': 7532, 'test_nonempty': 7317, 'n_train': 2400, 'n_test': 1000, 'n_classes': 20}
+[23:46:13]   TabICL               acc=0.4880 f1M=0.4767 ll=1.603 GAER=0.475 (x3.13) fit=0.7s pred=92.8s
+[23:46:16]   RandomForest         acc=0.4420 f1M=0.4219 ll=2.017 GAER=0.428 (x2.77) fit=2.2s pred=0.2s
+[23:46:32]   XGBoost              acc=0.4660 f1M=0.4585 ll=1.896 GAER=0.438 (x2.89) fit=15.9s pred=0.1s
+[23:46:45]   LightGBM             acc=0.4600 f1M=0.4510 ll=2.409 GAER=0.419 (x2.75) fit=12.9s pred=0.2s
+  File "C:\Users\<user>\anaconda3\Lib\site-packages\joblib\externals\loky\backend\context.py", line 257, in _count_physical_cores
+    cpu_info = subprocess.run(
+        "wmic CPU Get NumberOfCores /Format:csv".split(),
+        capture_output=True,
+        text=True,
+    )
+  File "C:\Users\<user>\anaconda3\Lib\subprocess.py", line 554, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\<user>\anaconda3\Lib\subprocess.py", line 1039, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        pass_fds, cwd, env,
+                        ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                        gid, gids, uid, umask,
+                        ^^^^^^^^^^^^^^^^^^^^^^
+                        start_new_session, process_group)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\<user>\anaconda3\Lib\subprocess.py", line 1554, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+                             # no special security
+                             ^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+                             cwd,
+                             ^^^^
+                             startupinfo)
+                             ^^^^^^^^^^^^
+[23:46:59]   HistGB               acc=0.4630 f1M=0.4529 ll=2.618 GAER=0.432 (x2.83) fit=13.5s pred=0.3s
+[23:47:00]   LogisticRegression   acc=0.4810 f1M=0.4712 ll=1.652 GAER=0.470 (x3.12) fit=0.2s pred=0.0s
+[23:47:01]   KNN                  acc=0.4110 f1M=0.3986 ll=6.480 GAER=0.389 (x2.51) fit=0.0s pred=0.9s
+[23:47:01]   MLP                  acc=0.4940 f1M=0.4749 ll=1.715 GAER=0.470 (x3.08) fit=0.6s pred=0.0s
+[23:47:02] E4 done
+                model  accuracy  f1_macro      GAER     GAER0  enrichment  perm_p  superclass_acc
+0              TabICL     0.488  0.476682  0.474609  0.151521    3.132293  0.0005           0.731
+1        RandomForest     0.442  0.421940  0.428315  0.154405    2.773977  0.0005           0.681
+2             XGBoost     0.466  0.458492  0.438202  0.151488    2.892648  0.0005           0.700
+3            LightGBM     0.460  0.450973  0.418519  0.151949    2.754330  0.0005           0.686
+4              HistGB     0.463  0.452870  0.432030  0.152700    2.829268  0.0005           0.695
+5  LogisticRegression     0.481  0.471197  0.470135  0.150695    3.119785  0.0005           0.725
+6                 KNN     0.411  0.398589  0.388795  0.155125    2.506336  0.0005           0.640
+7                 MLP     0.494  0.474930  0.470356  0.152590    3.082481  0.0005           0.732
+===== END e4_20newsgroups exit=0 Sat Oct 10 23:47:06 JDT 2026 =====
+ALL_DONE
+===== START e3b_lsa_dim256 Sat Oct 10 23:47:15 JDT 2026 =====
+[23:48:51]   TabICL               acc=0.8310 f1M=0.8094 ll=0.683 GAER=0.795 (x9.56) fit=0.6s pred=43.8s
+[23:48:51] E3b d=256 (effective 256)
+[23:53:06]   TabICL               acc=0.8912 f1M=0.8869 ll=0.510 GAER=0.681 (x8.75) fit=0.8s pred=126.7s
+[23:53:28]   XGBoost              acc=0.8565 f1M=0.8446 ll=0.615 GAER=0.677 (x8.01) fit=21.8s pred=0.0s
+[23:53:28]   LogisticRegression   acc=0.8935 f1M=0.8865 ll=0.593 GAER=0.674 (x8.48) fit=0.1s pred=0.0s
+[23:53:30]   RandomForest         acc=0.8611 f1M=0.8493 ll=1.101 GAER=0.733 (x9.18) fit=2.1s pred=0.1s
+[23:53:30] E3b done
+===== END e3b_lsa_dim256 exit=0 Sat Oct 10 23:53:31 JDT 2026 =====
+E3B_DONE

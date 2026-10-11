@@ -8,7 +8,7 @@ accuracy), we deliberately introduce ambiguity:
   - CONFUSABLES    : groups of close categories that borrow vocabulary from each
                      other (e.g. football/basketball, chemistry/biology/physics...).
   - NOISE          : a high proportion of filler words + variable length.
-  - LABEL NOISE    : a small fraction of training labels are corrupted.
+  - LABEL NOISE    : a small fraction of labels is corrupted, applied to the whole corpus BEFORE the train/test split (so test labels are noisy too).
   - IMBALANCE      : a mild per-class imbalance in the number of samples.
 
 Result: models must actually learn -> accuracy < 100%, comparison is meaningful.
@@ -128,7 +128,7 @@ def build_dataset(
     Build a hard ['text', 'category'] DataFrame.
 
     n_per_class : average number of samples per class.
-    label_noise : fraction of corrupted (random) training labels.
+    label_noise : fraction of corrupted (random) labels, applied to the whole corpus before splitting.
     imbalance   : if True, apply a mild per-class imbalance.
     """
     rng = np.random.default_rng(seed)

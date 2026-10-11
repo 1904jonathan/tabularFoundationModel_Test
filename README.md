@@ -147,6 +147,24 @@ largest at **low data volume**.
 
 ---
 
+## 8b. Revision experiments (Pattern Recognition resubmission)
+
+`outputs/revision/` contains the additional experiments run for the journal revision,
+all reproducible from the repository root with `outputs/revision/scripts/run_all.sh`:
+
+- `e1_*` : 10-seed rerun (new corpus, split and encoder per seed) of the 7 models plus an
+  MLP baseline, with Wilcoxon / Friedman tests and the GAER taxonomy-permutation null.
+- `e2_*` : baselines tuned by 3-fold randomised search on the training split (seed 42),
+  plus TabICL with a single ensemble member.
+- `e3_*` : sensitivity to the LSA dimension d in {16, 32, 64, 128, 256}.
+- `e4_*` : 20 Newsgroups (2,400 train / 1,000 test) with a hypothesised 6-group taxonomy.
+- `results.md` : every table, protocol, hardware and package versions; `log.txt` : run log.
+
+Note: the 5 % label noise is applied to the whole corpus **before** the train/test split,
+so about 3.5 % of test labels are corrupted (accuracy ceiling ~0.965); see `results.md`.
+
+---
+
 ## 9. References
 
 - TabICL — repository: <https://github.com/soda-inria/tabicl>

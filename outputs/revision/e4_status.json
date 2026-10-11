@@ -1,0 +1,10 @@
+{
+ "status": "ok",
+ "train_full": 11314,
+ "train_nonempty": 11014,
+ "test_full": 7532,
+ "test_nonempty": 7317,
+ "n_train": 2400,
+ "n_test": 1000,
+ "n_classes": 20
+}
