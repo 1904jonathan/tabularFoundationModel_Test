@@ -1,0 +1,31 @@
+item,set,audit_id,majority_pred,observed_newsgroup,judgement,note
+414,A_all,1,comp.os.ms-windows.misc,comp.windows.x,on-topic,X window manager config
+443,A_all,2,talk.politics.guns,talk.politics.misc,on-topic,BATF/Waco raid: politics
+21,A_all,3,sci.crypt,sci.electronics,on-topic,antenna market/specs
+423,U_all,4,rec.motorcycles,talk.politics.mideast,on-topic,US military aid to Israel
+23,U_all,5,rec.autos,sci.space,off-topic,"espionage remark, nothing about space"
+89,A_all,6,soc.religion.christian,talk.religion.misc,on-topic,hell in the KJV Bible
+778,U_all,7,rec.motorcycles,talk.politics.guns,ambiguous,shareholder activism against media; no gun content in text
+308,U_all,8,comp.sys.mac.hardware,sci.med,on-topic,sciatica relief
+549,U_all,9,sci.electronics,comp.sys.mac.hardware,uninformative,company address and phone numbers only
+83,A_all,10,comp.os.ms-windows.misc,comp.graphics,on-topic,"DOS screen capture, VESA"
+960,U_all,11,sci.med,talk.politics.misc,ambiguous,"MDs vs RNs on a (policy) list: medicine vocabulary, political context"
+868,U_all,12,sci.space,comp.sys.mac.hardware,ambiguous,computer purchase discounts: comp vs forsale
+412,U_all,13,rec.sport.baseball,sci.electronics,uninformative,reply-to address only
+1,A_all,14,comp.graphics,comp.windows.x,on-topic,displaying a gif in an X window
+934,A_all,15,comp.sys.mac.hardware,comp.sys.ibm.pc.hardware,on-topic,RAM over 16 MB in ISA PC
+188,U_all,16,alt.atheism,rec.sport.hockey,uninformative,meta-discussion about a letter; no hockey content
+50,U_all,17,alt.atheism,talk.politics.misc,on-topic,Rodney King trial: politics
+14,U_all,18,alt.atheism,sci.space,off-topic,native American cultures 1400 vs 1800; nothing about space
+716,A_all,19,sci.space,sci.electronics,on-topic,Atari 2600 chips: electronics
+327,A_all,20,soc.religion.christian,talk.religion.misc,on-topic,biblical claims about Satan
+539,A_all,21,comp.sys.ibm.pc.hardware,comp.sys.mac.hardware,on-topic,Mac IIvi with CD-ROM
+528,U_all,22,rec.sport.baseball,talk.politics.mideast,off-topic,personal remark about a UVA student; no Middle-East content
+500,U_all,23,sci.med,talk.politics.mideast,off-topic,university party ranking; no Middle-East content
+175,A_all,24,soc.religion.christian,alt.atheism,on-topic,God and science
+656,A_all,25,comp.os.ms-windows.misc,comp.graphics,on-topic,ATM fonts in Windows
+411,A_all,26,talk.politics.guns,talk.politics.mideast,on-topic,Bosnia arms embargo: politics
+167,A_all,27,sci.med,sci.electronics,on-topic,pink noise in semiconductors
+274,U_all,28,sci.electronics,alt.atheism,ambiguous,advert for Darwin-fish emblem: religion vs forsale
+422,A_all,29,soc.religion.christian,alt.atheism,on-topic,creationism vs science
+739,U_all,30,soc.religion.christian,misc.forsale,ambiguous,advert for a psychic phone line (spam): forsale only by format

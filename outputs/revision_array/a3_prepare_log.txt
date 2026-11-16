@@ -1,0 +1,73 @@
+              set     n  words_median  words_q25  words_q75  frac_le_20_words
+0           U_all   127          44.0      20.00      88.50          0.267717
+1           A_all    67         106.0      40.50     167.50          0.044776
+2        all_test  1000          87.0      42.75     167.00          0.104000
+3  correct_by_all   252         119.0      60.00     239.25          0.059524
+majority_pred_group  comp  misc  politics  rec  religion  sci
+true_group                                                   
+comp                    0     3         3    3         1    9
+misc                    2     0         0    2         1    2
+politics                2     0         0    6         6    5
+rec                     4     5        12    0         5    6
+religion                4     1         2    2         0    4
+sci                    12     0        10    8         7    0
+
+#1 [comp.windows.x] (22 words): specify RamdomPlacement (or RandomPlace ? ) in your .tvtwmrc. This places the windows not-interactively in pseudo - random positions on your screens.
+
+#2 [talk.politics.misc] (92 words): Of course they did, otherwise they wouldn't have staged the raid in the first place. Napalming seems a bit redundant. The Stupidity was in the BATF mindset 'We're from Washington We Know Better" Execute Plan A: Storm the compound in a No-Knock - the locals are gullible rubes, who cares that they served warrents by knocking on the door. Such an old fashioned, out dated method of Law Enforcement any [...]
+
+#3 [sci.electronics] (81 words): i need to get some info a.s.a.p. about the cellular antenna market out there right now: who are the main companies making them, how much do they cost, what are the specs (such as gain , directivity, etc.), and who is the contact person because a group of us here are at the Univ.of IL are researching into this technology I will personally mail you a copy of our entire busineess plan and paper if yo [...]
+
+#4 [talk.politics.mideast] (66 words): You're just beginning to scratch the surface. Do you know how much military equipment costs? When was the last time you tried to buy a mil-spec hammer, coffee-pot or toilet seat? Paying Israel to do the dirty work on it's own without putting American soldiers's lives on the line is much, much, much cheaper than Uncle Sam's arrangements with much of the rest of the world.
+
+#5 [sci.space] (15 words): You mena in the same way french intelliegence agents steal documents from US corporate executives?
+
+#6 [talk.religion.misc] (982 words): In the King James Version of the Bible there are three differents words translated into the word "hell". These Greek words have totally different meanings. The words are Hades, Tartaros, and Gehenna. In bibical usage, the Greek word Hades is used only 11 times in the New Testament, and is roughly the equivalent to the Old Testament word Sheol... meaning the grave or pit (compare Acts 2:27 with Psa [...]
+
+#7 [talk.politics.guns] (65 words): Um, I sortof hesitate to bring this up, but owning even a single share entitles you to attend the annual shareholders meeting, and under most corporate charters to introduce topics to be discussed. While I *don't* suggest the tactic used by some in Japan (go to the shareholders meeting, and disrupt the bejeezus out of everything), what about a well-worded resolution complaining about "advocacy jou [...]
+
+#8 [sci.med] (11 words): Ideas for the relief of sciatica. Please respond to my E-mail
+
+#9 [comp.sys.mac.hardware] (24 words): 1st Tech Corp. 12202 Technology Blvd., Suite 130 PO Box 200656 Austin TX 78720-0656 800 533 1744 512 258 3570 Fax 512 258 3689
+
+#10 [comp.graphics] (21 words): Is there a DOS screen capture utility -- PD or shareware -- that will work reliably with VESA 6a 800x600 screens?
+
+#11 [talk.politics.misc] (14 words): Too many MDs on the list and not enough RNs in my opinion. Doug
+
+#12 [comp.sys.mac.hardware] (128 words): For what it's worth, my experience has been that the educational discount (which my S.O. has taken advantage of, as a teacher) is roughly equivalent to the corporate discounts that I'm able to get as an employee of a fairly large multi-state corporation, which is usually at least as good as what one can get at one of the "discount" computer chains (e.g. CompUSA). For purposes of budget estimation  [...]
+
+#13 [sci.electronics] (8 words): Please replay to : yxy4145@usl.edu Thanks a lot
+
+#14 [comp.windows.x] (123 words): <It seems silly, but while I've located things like tgif that can edit <gif files, and various tools to convert to/from gif format, I haven't <been able to locate a program that just opens a window and displays a <gif file in it. I've looked thru various faq files, also to no avail. <Is there one lurking about in some archive? Nothing sophisticated; <just "show the pretty picture"? < <Alternativel [...]
+
+#15 [comp.sys.ibm.pc.hardware] (27 words): O.K, I am not a computer literate, but what can/cannot be done with the RAM over 16 megs in an ISA machine. Please e-mail! Thanks in Advance!
+
+#16 [rec.sport.hockey] (147 words): Again I assume this is not just flame bait by Roger, but actually a truly held opinion. Thanks. For speaking for all those who didn't feel it was important enough to say something themselves. I wouldn't say that the letter clearly implies representation of the views of a group that you belong to. It represents a subset (that you don't belong to) of a larger group (which you do, if only because thi [...]
+
+#17 [talk.politics.misc] (49 words): It is also interesting to note that Powell (and maybe Koons) were found guilty of aiding and abetting the deprival of King's civil rights...but, two others who also beat King and all the others who watched were not. Go figure? Can you say sacraficial lambs? Can you say appeal?
+
+#18 [sci.space] (136 words): This is, shall we say, an overly-broad statement. In particular, are you referring to the native American culture that existed in 1400, or the one that existed in 1800? (Simplify things by assuming we're talking about the eastern US rather than the whole continent.) Given that those were *radically* different cultures, which one are you referring to? Note that the pre-Columbian native Americans, e [...]
+
+#19 [sci.electronics] (222 words): Wrong, it has a 6507. It had one custome chip (not an ASIC in the sense that word is now understood): the TIA (sometimes known as the 6526, although most other manufacturers list that as the CIA complex interface adapter.) TIA stands for Television Interface Adapter, and it handles sound, paddles and the minimal video hardware the 2600 possessed. There was also a standard 6532 RAM, I/O, Timer (RIO [...]
+
+#20 [talk.religion.misc] (612 words): Here is someones "biblical" claim for the characteristics of Satan: And separately: We have here three distinct claims concerning the results of the devil's decision making, a specific desire, and a physical description. Now, in support (aside from the minor detail that an author seldom writes an unbiased account of the opposition) we see: ISA 14:12 How art thou fallen from heaven, O Lucifer, son  [...]
+
+#21 [comp.sys.mac.hardware] (142 words): A local dealer is offering Mac II vi machines equipped with Kodak multi- session compatible CD-ROM drives for what seems like an attractive price: $1500. I've used many other models up to a II ci, but this would be the first I could have my own Mac. Is it safe to buy an about-to-be discontinued model such as this. I'd like to yank the CD-ROM drive out, put it in a housing and share it with my PC.  [...]
+
+#22 [talk.politics.mideast] (60 words): Pete-- That was uncalled for. I'm sure Andi Beyer or whatever his name is was a product of his environment before he came to school, and is enjoying the mantle of THE UNIVERSITY to make his viewpoint seem legitimate (well-reasoned). I'm at Virginia, too, and I think maligning UVA is in poor taste, even if Beyer did slip in here.
+
+#23 [talk.politics.mideast] (34 words): @> A few things about the University. It is more fun than some may @> admit. Partying does go on and it has consistently been ranked @> one of Playboy's top party schools. ...
+
+#24 [alt.atheism] (145 words): As per various threads on science and creationism, I've started dabbling into a book called Christianity and the Nature of Science by JP Moreland. A question that I had come from one of his comments. He stated that God is not necessarily a religious term, but could be used as other scientific terms that give explanation for events or theories, without being a proven scientific fact. I think I got  [...]
+
+#25 [comp.graphics] (142 words): There are some tricks to installing ATM to windows... install them first to dos, then run the ATM control panel to get them into windows. The best reason for ATM is that Adobe IS the standard. Truetype is a failed MS venture to undercut Adobe when Adobe was being nasty about keeping their formats proprietary. Just about any service bureau or print shop will smirk and send you on your way if you br [...]
+
+#26 [talk.politics.mideast] (450 words): This is one of the most ridiculous arguments I have heard from the Europeans. "Let's let the Serbs massacre, rape, and ethnically clean 100,000 Bosnians because we don't want our pretty blue berets there to get scratched". Well, I say, get them the hell out of there if you're worried for them, but don't deny Bosnians their basic right to self defense! Lift the embargo against Bosnia, and let them  [...]
+
+#27 [sci.electronics] (159 words): With regards to what you wrote, how does one "adjust for room dynamics and stuff like that"? I asked a professor that question just last week and he didn't really know himself. Since pink noise is believed to be due to surface states (say, the surface of the Silicon where there's a lack of a covalent bond) that act as "traps" to nearby elecrons, and since this happens at low frequencies (because a [...]
+
+#28 [alt.atheism] (41 words): Darwin fish can be bought from: -- "JOIN THE DARWINNERS (TM) Send $6 to receive your official Evolving Fish.. wherever you want to spread the good news! Darwinners, 6671 Sunset Blvd., Ste. 1525, L.A.,CA 90028 THE GREATEST THEORY EVER TOLD!" Jenny
+
+#29 [alt.atheism] (231 words): BR> From: wpr@atlanta.dg.com (Bill Rawlins) BR> Newsgroups: alt.atheism BR> Organization: DGSID, Atlanta, GA BR> The problem is that most scientists exclude the BR> possibility of the supernatural in the question of BR> origins. Is this is a fair premise? I utterly BR> reject the hypothesis that science is the highest form of BR> truth. It is better than the crap that the creationists put out. So  [...]
+
+#30 [misc.forsale] (32 words): LOOK INTO THE FUTURE Discover what lies ahead in Love, Health and Finance Speak LIVE with a Psychic of your choice 900-446-6995 Extension 107 YOU MUST BE 18 OR OVER TO CALL.

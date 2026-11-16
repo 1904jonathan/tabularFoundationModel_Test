@@ -1,0 +1,31 @@
+taxonomy,group,classes
+H,comp,"comp.graphics, comp.os.ms-windows.misc, comp.sys.ibm.pc.hardware, comp.sys.mac.hardware, comp.windows.x"
+H,misc,misc.forsale
+H,politics,"talk.politics.guns, talk.politics.mideast, talk.politics.misc"
+H,rec,"rec.autos, rec.motorcycles, rec.sport.baseball, rec.sport.hockey"
+H,religion,"alt.atheism, soc.religion.christian, talk.religion.misc"
+H,sci,"sci.crypt, sci.electronics, sci.med, sci.space"
+W1_alpha_full,G1,"alt.atheism, comp.graphics, comp.os.ms-windows.misc, comp.sys.ibm.pc.hardware, comp.sys.mac.hardware"
+W1_alpha_full,G2,"comp.windows.x, misc.forsale, rec.autos, rec.motorcycles"
+W1_alpha_full,G3,"rec.sport.baseball, rec.sport.hockey, sci.crypt, sci.electronics"
+W1_alpha_full,G4,"sci.med, sci.space, soc.religion.christian"
+W1_alpha_full,G5,"talk.politics.guns, talk.politics.mideast, talk.politics.misc"
+W1_alpha_full,G6,talk.religion.misc
+W2_alpha_leaf,G1,"alt.atheism, rec.autos, rec.sport.baseball, sci.crypt, soc.religion.christian"
+W2_alpha_leaf,G2,"comp.graphics, misc.forsale, sci.electronics, talk.politics.guns"
+W2_alpha_leaf,G3,"comp.sys.ibm.pc.hardware, comp.sys.mac.hardware, rec.sport.hockey, sci.med"
+W2_alpha_leaf,G4,"comp.os.ms-windows.misc, talk.politics.mideast, talk.politics.misc"
+W2_alpha_leaf,G5,"rec.motorcycles, sci.space, talk.religion.misc"
+W2_alpha_leaf,G6,comp.windows.x
+W3_halfswap_draw0,comp,"alt.atheism, comp.graphics, comp.os.ms-windows.misc, comp.windows.x, talk.politics.guns"
+W3_halfswap_draw0,misc,misc.forsale
+W3_halfswap_draw0,politics,"comp.sys.mac.hardware, talk.politics.mideast, talk.politics.misc"
+W3_halfswap_draw0,rec,"rec.motorcycles, rec.sport.hockey, sci.med, sci.space"
+W3_halfswap_draw0,religion,"rec.sport.baseball, soc.religion.christian, talk.religion.misc"
+W3_halfswap_draw0,sci,"comp.sys.ibm.pc.hardware, rec.autos, sci.crypt, sci.electronics"
+W4_crosscut,X0,"alt.atheism, comp.graphics, rec.autos, sci.crypt, talk.politics.misc"
+W4_crosscut,X1,"comp.os.ms-windows.misc, rec.motorcycles, sci.electronics, talk.politics.guns"
+W4_crosscut,X2,"comp.sys.ibm.pc.hardware, rec.sport.baseball, sci.med, talk.politics.mideast"
+W4_crosscut,X3,"comp.sys.mac.hardware, rec.sport.hockey, sci.space"
+W4_crosscut,X4,"comp.windows.x, misc.forsale, soc.religion.christian"
+W4_crosscut,X5,talk.religion.misc

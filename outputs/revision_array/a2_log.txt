@@ -1,0 +1,104 @@
+             taxonomy     group                                                                                                  classes
+0                   H      comp  comp.graphics, comp.os.ms-windows.misc, comp.sys.ibm.pc.hardware, comp.sys.mac.hardware, comp.windows.x
+1                   H      misc                                                                                             misc.forsale
+2                   H  politics                                            talk.politics.guns, talk.politics.mideast, talk.politics.misc
+3                   H       rec                                         rec.autos, rec.motorcycles, rec.sport.baseball, rec.sport.hockey
+4                   H  religion                                                  alt.atheism, soc.religion.christian, talk.religion.misc
+5                   H       sci                                                           sci.crypt, sci.electronics, sci.med, sci.space
+6       W1_alpha_full        G1     alt.atheism, comp.graphics, comp.os.ms-windows.misc, comp.sys.ibm.pc.hardware, comp.sys.mac.hardware
+7       W1_alpha_full        G2                                                 comp.windows.x, misc.forsale, rec.autos, rec.motorcycles
+8       W1_alpha_full        G3                                         rec.sport.baseball, rec.sport.hockey, sci.crypt, sci.electronics
+9       W1_alpha_full        G4                                                               sci.med, sci.space, soc.religion.christian
+10      W1_alpha_full        G5                                            talk.politics.guns, talk.politics.mideast, talk.politics.misc
+11      W1_alpha_full        G6                                                                                       talk.religion.misc
+12      W2_alpha_leaf        G1                            alt.atheism, rec.autos, rec.sport.baseball, sci.crypt, soc.religion.christian
+13      W2_alpha_leaf        G2                                         comp.graphics, misc.forsale, sci.electronics, talk.politics.guns
+14      W2_alpha_leaf        G3                               comp.sys.ibm.pc.hardware, comp.sys.mac.hardware, rec.sport.hockey, sci.med
+15      W2_alpha_leaf        G4                                       comp.os.ms-windows.misc, talk.politics.mideast, talk.politics.misc
+16      W2_alpha_leaf        G5                                                           rec.motorcycles, sci.space, talk.religion.misc
+17      W2_alpha_leaf        G6                                                                                           comp.windows.x
+18  W3_halfswap_draw0      comp                  alt.atheism, comp.graphics, comp.os.ms-windows.misc, comp.windows.x, talk.politics.guns
+19  W3_halfswap_draw0      misc                                                                                             misc.forsale
+20  W3_halfswap_draw0  politics                                         comp.sys.mac.hardware, talk.politics.mideast, talk.politics.misc
+21  W3_halfswap_draw0       rec                                                    rec.motorcycles, rec.sport.hockey, sci.med, sci.space
+22  W3_halfswap_draw0  religion                                           rec.sport.baseball, soc.religion.christian, talk.religion.misc
+23  W3_halfswap_draw0       sci                                          comp.sys.ibm.pc.hardware, rec.autos, sci.crypt, sci.electronics
+24        W4_crosscut        X0                                     alt.atheism, comp.graphics, rec.autos, sci.crypt, talk.politics.misc
+25        W4_crosscut        X1                            comp.os.ms-windows.misc, rec.motorcycles, sci.electronics, talk.politics.guns
+26        W4_crosscut        X2                             comp.sys.ibm.pc.hardware, rec.sport.baseball, sci.med, talk.politics.mideast
+27        W4_crosscut        X3                                                       comp.sys.mac.hardware, rec.sport.hockey, sci.space
+28        W4_crosscut        X4                                                     comp.windows.x, misc.forsale, soc.religion.christian
+29        W4_crosscut        X5                                                                                       talk.religion.misc
+             taxonomy               model      GAER     GAER0  enrichment  n_err  perm_p95    perm_p  aligned_H_only  aligned_T_only  paired_p_vs_H
+0                   H              TabICL  0.474609  0.151521    3.132293    512  0.216797  0.000500               0               0   1.000000e+00
+1                   H        RandomForest  0.428315  0.154405    2.773977    558  0.206093  0.000500               0               0   1.000000e+00
+2                   H             XGBoost  0.438202  0.151488    2.892648    534  0.205993  0.000500               0               0   1.000000e+00
+3                   H            LightGBM  0.418519  0.151949    2.754330    540  0.207407  0.000500               0               0   1.000000e+00
+4                   H              HistGB  0.432030  0.152700    2.829268    537  0.208566  0.000500               0               0   1.000000e+00
+5                   H  LogisticRegression  0.470135  0.150695    3.119785    519  0.211946  0.000500               0               0   1.000000e+00
+6                   H                 KNN  0.388795  0.155125    2.506336    589  0.202037  0.000500               0               0   1.000000e+00
+7                   H                 MLP  0.470356  0.152590    3.082481    506  0.223320  0.000500               0               0   1.000000e+00
+8       W1_alpha_full              TabICL  0.320312  0.146998    2.179021    512  0.216797  0.000500             100              21   1.606311e-13
+9       W1_alpha_full        RandomForest  0.292115  0.148557    1.966349    558  0.206093  0.001000              95              19   2.421352e-13
+10      W1_alpha_full             XGBoost  0.288390  0.148039    1.948069    534  0.207865  0.001000             100              20   5.508391e-14
+11      W1_alpha_full            LightGBM  0.300000  0.148441    2.021011    540  0.209259  0.000500              83              19   1.015826e-10
+12      W1_alpha_full              HistGB  0.294227  0.148094    1.986764    537  0.208566  0.000500              93              19   6.748136e-13
+13      W1_alpha_full  LogisticRegression  0.306358  0.147247    2.080579    519  0.215800  0.001499             103              18   1.158315e-15
+14      W1_alpha_full                 KNN  0.246180  0.151014    1.630178    589  0.203820  0.005497             103              19   3.761649e-15
+15      W1_alpha_full                 MLP  0.322134  0.149366    2.156685    506  0.225296  0.001499              98              23   3.239857e-12
+16      W2_alpha_leaf              TabICL  0.193359  0.144017    1.342612    512  0.214844  0.119440             181              37   5.632706e-24
+17      W2_alpha_leaf        RandomForest  0.168459  0.145727    1.155987    558  0.206093  0.251874             193              48   8.644961e-22
+18      W2_alpha_leaf             XGBoost  0.168539  0.145969    1.154625    534  0.205993  0.251874             184              40   2.907179e-23
+19      W2_alpha_leaf            LightGBM  0.172222  0.146199    1.178000    540  0.207407  0.216392             172              39   4.013258e-21
+20      W2_alpha_leaf              HistGB  0.152700  0.145153    1.051992    537  0.208566  0.416292             187              37   2.614483e-25
+21      W2_alpha_leaf  LogisticRegression  0.194605  0.145421    1.338215    519  0.215800  0.119940             191              48   2.222840e-21
+22      W2_alpha_leaf                 KNN  0.166384  0.145742    1.141631    589  0.203735  0.278861             182              51   1.888964e-18
+23      W2_alpha_leaf                 MLP  0.191700  0.146349    1.309879    506  0.223419  0.149425             180              39   7.648059e-23
+24  W3_halfswap_draw0              TabICL  0.228516  0.153680    1.486957    512  0.218750  0.037981             159              33   5.555881e-21
+25  W3_halfswap_draw0        RandomForest  0.231183  0.153179    1.509236    558  0.211470  0.021489             159              49   9.380127e-15
+26  W3_halfswap_draw0             XGBoost  0.239700  0.151784    1.579221    534  0.209738  0.017491             152              46   1.945158e-14
+27  W3_halfswap_draw0            LightGBM  0.220370  0.152242    1.447503    540  0.211204  0.039980             153              46   1.261589e-14
+28  W3_halfswap_draw0              HistGB  0.206704  0.153190    1.349328    537  0.212291  0.064968             160              39   1.342710e-18
+29  W3_halfswap_draw0  LogisticRegression  0.252408  0.149579    1.687458    519  0.221676  0.015992             163              50   3.597622e-15
+30  W3_halfswap_draw0                 KNN  0.217317  0.152265    1.427230    589  0.207131  0.029485             149              48   3.081257e-13
+31  W3_halfswap_draw0                 MLP  0.231225  0.154150    1.500000    506  0.227372  0.047476             162              41   3.273655e-18
+32        W4_crosscut              TabICL  0.080078  0.149774    0.534660    512  0.218848  0.977511             243              41   4.278841e-36
+33        W4_crosscut        RandomForest  0.098566  0.150632    0.654352    558  0.206183  0.948026             239              55   1.669166e-28
+34        W4_crosscut             XGBoost  0.104869  0.150503    0.696791    534  0.209738  0.902049             234              56   4.928786e-27
+35        W4_crosscut            LightGBM  0.111111  0.151657    0.732648    540  0.209352  0.863568             226              60   8.017561e-24
+36        W4_crosscut              HistGB  0.102421  0.150936    0.678571    537  0.208659  0.923538             232              55   4.973137e-27
+37        W4_crosscut  LogisticRegression  0.075145  0.149782    0.501693    519  0.217726  0.988006             244              39   2.004185e-37
+38        W4_crosscut                 KNN  0.108659  0.149853    0.725104    589  0.205433  0.899050             229              64   6.091360e-23
+39        W4_crosscut                 MLP  0.094862  0.150198    0.631579    506  0.225296  0.908046             238              48   1.987648e-31
+                   GAER_min  GAER_max   enr_min   enr_max     p_max  paired_p_max
+taxonomy                                                                         
+H                  0.388795  0.474609  2.506336  3.132293  0.000500  1.000000e+00
+W1_alpha_full      0.246180  0.322134  1.630178  2.179021  0.005497  1.015826e-10
+W2_alpha_leaf      0.152700  0.194605  1.051992  1.342612  0.416292  1.888964e-18
+W3_halfswap_draw0  0.206704  0.252408  1.349328  1.687458  0.064968  3.081257e-13
+W4_crosscut        0.075145  0.111111  0.501693  0.732648  0.988006  6.091360e-23
+                    GAER_median  GAER_q05  GAER_q95  frac_above_null  frac_worse_than_H
+model                                                                                  
+HistGB                 0.195531  0.147114  0.249534            0.310                1.0
+KNN                    0.191002  0.146010  0.239474            0.332                1.0
+LightGBM               0.193519  0.144352  0.246296            0.315                1.0
+LogisticRegression     0.198459  0.144509  0.258189            0.350                1.0
+MLP                    0.199605  0.136364  0.268775            0.288                1.0
+RandomForest           0.197133  0.154122  0.249104            0.375                1.0
+TabICL                 0.203125  0.152246  0.259766            0.332                1.0
+XGBoost                0.194757  0.149813  0.245318            0.348                1.0
+            taxonomy     n  M  E_all  U_all  A_all  U_exactly1  U_any  U_ge1  U_ge2  U_ge3  U_ge4  U_ge5  U_ge6  U_ge7  U_ge8
+0                  H  1000  8    313    127     67          98    517    517    419    366    315    268    224    174    127
+1      W1_alpha_full  1000  8    313    173     38          92    609    609    517    456    398    347    291    236    173
+2      W2_alpha_leaf  1000  8    313    202     11          93    690    690    597    524    467    418    356    287    202
+3  W3_halfswap_draw0  1000  8    313    187     27          97    657    657    560    496    440    380    324    271    187
+4        W4_crosscut  1000  8    313    225      4          82    734    734    652    577    519    456    396    318    225
+model
+HistGB                 6
+KNN                   48
+LightGBM               4
+LogisticRegression     7
+MLP                    6
+RandomForest          20
+TabICL                 3
+XGBoost                4

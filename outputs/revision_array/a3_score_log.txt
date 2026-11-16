@@ -1,0 +1,36 @@
+judgement  ambiguous  off-topic  on-topic  uninformative  All
+set                                                          
+A_all              0          0        15              0   15
+U_all              5          4         3              3   15
+All                5          4        18              3   30
+    audit_id    set        observed_newsgroup             majority_pred      judgement                                                                   note
+0          1  A_all            comp.windows.x   comp.os.ms-windows.misc       on-topic                                                X window manager config
+1          2  A_all        talk.politics.misc        talk.politics.guns       on-topic                                               BATF/Waco raid: politics
+2          3  A_all           sci.electronics                 sci.crypt       on-topic                                                   antenna market/specs
+3          4  U_all     talk.politics.mideast           rec.motorcycles       on-topic                                              US military aid to Israel
+4          5  U_all                 sci.space                 rec.autos      off-topic                                  espionage remark, nothing about space
+5          6  A_all        talk.religion.misc    soc.religion.christian       on-topic                                                  hell in the KJV Bible
+6          7  U_all        talk.politics.guns           rec.motorcycles      ambiguous             shareholder activism against media; no gun content in text
+7          8  U_all                   sci.med     comp.sys.mac.hardware       on-topic                                                        sciatica relief
+8          9  U_all     comp.sys.mac.hardware           sci.electronics  uninformative                                 company address and phone numbers only
+9         10  A_all             comp.graphics   comp.os.ms-windows.misc       on-topic                                               DOS screen capture, VESA
+10        11  U_all        talk.politics.misc                   sci.med      ambiguous  MDs vs RNs on a (policy) list: medicine vocabulary, political context
+11        12  U_all     comp.sys.mac.hardware                 sci.space      ambiguous                           computer purchase discounts: comp vs forsale
+12        13  U_all           sci.electronics        rec.sport.baseball  uninformative                                                  reply-to address only
+13        14  A_all            comp.windows.x             comp.graphics       on-topic                                        displaying a gif in an X window
+14        15  A_all  comp.sys.ibm.pc.hardware     comp.sys.mac.hardware       on-topic                                               RAM over 16 MB in ISA PC
+15        16  U_all          rec.sport.hockey               alt.atheism  uninformative                      meta-discussion about a letter; no hockey content
+16        17  U_all        talk.politics.misc               alt.atheism       on-topic                                            Rodney King trial: politics
+17        18  U_all                 sci.space               alt.atheism      off-topic             native American cultures 1400 vs 1800; nothing about space
+18        19  A_all           sci.electronics                 sci.space       on-topic                                          Atari 2600 chips: electronics
+19        20  A_all        talk.religion.misc    soc.religion.christian       on-topic                                            biblical claims about Satan
+20        21  A_all     comp.sys.mac.hardware  comp.sys.ibm.pc.hardware       on-topic                                                   Mac IIvi with CD-ROM
+21        22  U_all     talk.politics.mideast        rec.sport.baseball      off-topic            personal remark about a UVA student; no Middle-East content
+22        23  U_all     talk.politics.mideast                   sci.med      off-topic                       university party ranking; no Middle-East content
+23        24  A_all               alt.atheism    soc.religion.christian       on-topic                                                        God and science
+24        25  A_all             comp.graphics   comp.os.ms-windows.misc       on-topic                                                   ATM fonts in Windows
+25        26  A_all     talk.politics.mideast        talk.politics.guns       on-topic                                          Bosnia arms embargo: politics
+26        27  A_all           sci.electronics                   sci.med       on-topic                                           pink noise in semiconductors
+27        28  U_all               alt.atheism           sci.electronics      ambiguous                     advert for Darwin-fish emblem: religion vs forsale
+28        29  A_all               alt.atheism    soc.religion.christian       on-topic                                                 creationism vs science
+29        30  U_all              misc.forsale    soc.religion.christian      ambiguous         advert for a psychic phone line (spam): forsale only by format
